@@ -1,0 +1,21 @@
+{% extends 'store/base.html' %}
+{% block content %}
+<section style="padding: 60px; text-align: center; background-color: #efdfbb;">
+    {% if method == "COD" %}
+        <h2 style="color: #5c4033;">Order Placed Successfully!</h2>
+        <p style="margin-top: 20px;">Amount to be paid: <strong>₹{{ total }}</strong></p>
+        <p>Your order will be delivered soon. Thank you for choosing Cash on Delivery.</p>
+        <p>Shipping to: {{ address }}</p>
+    {% else %}
+        <h2 style="color: #5c4033;">Order Placed and Payment Successful!</h2>
+        <p style="margin-top: 20px;">You paid via: <strong>{{ method }}</strong></p>
+        <p>Thank you for your purchase.</p>
+        <p>Shipping to: {{ address }}</p>
+    {% endif %}
+
+    <a href="{% url 'catalog' %}"
+       style="margin-top: 30px; display: inline-block; background-color: #5c4033; color: #f6ead3; padding: 10px 20px; text-decoration: none; border-radius: 6px;">
+        Continue Shopping
+    </a>
+</section>
+{% endblock %}

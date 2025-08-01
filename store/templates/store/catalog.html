@@ -1,0 +1,62 @@
+{% extends 'store/base.html' %}
+{% load static %}
+
+{% block content %}
+<section style="text-align: center; padding: 40px 20px;">
+    <h2 style="font-size: 3em; margin-top: 20px;">Our Catalog</h2>
+
+    <!-- Category Filters -->
+        <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; margin-top: 30px;">
+    {% for cat in categories %}
+        <a href="?category={{ cat|lower }}" style="text-decoration: none; color: #5c4033;">
+            <div style="
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 40px;
+                background-color: #f6ead3;
+                padding: 10px 15px;
+                border-radius: 30px;
+                transition: transform 0.3s ease, box-shadow 0.3s ease;
+                width: 250px;
+                height: 50px;
+                border: 2px solid #5c4033;
+
+                box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+            "
+            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 8px rgba(92, 64, 51, 0.2)'"
+            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+
+                <img src="{% static 'store/images/'|add:cat|add:'.png' %}" alt="{{ cat }}"
+                     style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;">
+
+                <span style="font-size: 1.3em;">{{ cat|title }}</span>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+
+
+    <!-- Products Display -->
+    <div style="margin-top: 50px;">
+    <h3 style="font-size: 2em;">{{ selected_category|default:"All Items"|title }}</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-top: 20px;">
+        {% for item in items %}
+            <div style="background-color: #f5e9cf; padding: 20px; border-radius: 30px; width: 300px; border: 2px solid #5c4033;">
+                <img src="{{ item.image.url }}" alt="{{ item.name }}" style="width: 100%; border-radius: 8px;">
+                <h4 style="margin-top: 10px;">{{ item.name }}</h4>
+                <p>₹{{ item.price }}</p>
+
+                <!-- ✅ Add to Cart Button -->
+                <a href="{% url 'add_to_cart' item.id %}"
+                   style="display: inline-block; margin-top: 10px; background-color: #5c4033; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none;">
+                    Add to Cart
+                </a>
+            </div>
+        {% empty %}
+            <p>No items in this category yet.</p>
+        {% endfor %}
+    </div>
+</div>
+</section>
+{% endblock %}

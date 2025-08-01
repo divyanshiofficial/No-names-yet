@@ -1,0 +1,501 @@
+Clothing ID,Age,Category Level 1 (product type),Category Level 2 (style),Category Level 3(size),Rating,Water Saved (L),Fabric Waste Saved (g),CO2 Saved (kg),Detailed Customer Review,Review Sentiment,Is Wishlist Item,Purchase Date,Repeat Purchase,Discount Applied (%),Story Type,Referred by Friend,Sustainability Tier
+1051,34,Tops,Blouses,Petite,4,2891,619,4.32,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,02-04-2025 09:50,Yes,20,Empowering,No,Gold
+1092,30,Bottom,Pants,Regular,1,2304,1345,4.18,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,18-06-2025 09:50,Yes,0,Playful,No,Gold
+1014,45,Dresses,Gowns,Tall,3,1359,808,5.1,"Pretty good, fits well and looks nice for casual wear.",Positive,No,23-03-2025 09:50,Yes,30,Empowering,No,Bronze
+1071,38,Outerwear,Jackets,Petite,5,2137,1276,2.5,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,04-01-2025 09:50,No,10,Minimal,No,Silver
+1060,29,Loungewear,Lounge Tops,Plus Size,5,1390,682,5.17,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,06-04-2025 09:50,Yes,40,Empowering,No,Bronze
+1020,44,Tops,Shirts,Plus Size,4,1777,1015,1.83,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,02-03-2025 09:50,No,20,Empowering,Yes,Gold
+1082,28,Bottom,Skirts,Tall,5,1195,559,2.67,"Pretty good, fits well and looks nice for casual wear.",Positive,No,10-01-2025 09:50,No,40,Empowering,No,Bronze
+1086,24,Outerwear,Coats,Petite,1,1913,800,1.51,"Pretty good, fits well and looks nice for casual wear.",Positive,No,02-04-2025 09:50,No,50,Playful,No,Bronze
+1074,19,Bottom,Shorts,Petite,1,1750,845,5.34,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,21-04-2025 09:50,No,40,Emotional,No,Silver
+1074,29,Bottom,Skirts,Regular,4,1178,1240,2.37,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,05-03-2025 09:50,No,40,Emotional,Yes,Bronze
+1087,29,Outerwear,Coats,Petite,4,1972,1107,3.42,I liked it overall. The color was slightly different but still pretty.,Positive,No,18-03-2025 09:50,No,20,Empowering,No,Gold
+1099,41,Loungewear,Lounge Bottoms,Plus Size,4,1300,1400,3.98,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,16-04-2025 09:50,Yes,20,Emotional,No,Gold
+1023,19,Tops,Knits,Tall,3,1944,977,3.64,Will consider again for future purchases.,Positive,Yes,30-03-2025 09:50,No,10,Emotional,No,Silver
+1002,27,Bottom,Shorts,Tall,5,1440,1384,2.77,Didn't like the neckline. Quality seems average.,Negative,Yes,03-04-2025 09:50,No,10,Empowering,Yes,Bronze
+1021,44,Tops,Tanks,Regular,4,959,622,2.45,Nice fabric and colors. Great for everyday use.,Positive,Yes,21-05-2025 09:50,No,20,Empowering,No,Silver
+1052,44,Dresses,Maxi,Tall,2,1220,593,4.61,Nice fabric and colors. Great for everyday use.,Positive,No,30-04-2025 09:50,No,20,Minimal,No,Bronze
+1001,36,Outerwear,Jackets,Tall,2,904,748,3.27,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,19-05-2025 09:50,Yes,20,Emotional,No,Bronze
+1087,43,Bottom,Pants,Plus Size,1,1044,1064,4.58,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,11-02-2025 09:50,No,20,Playful,No,Gold
+1029,31,Loungewear,Lounge Bottoms,Petite,5,2747,699,3.48,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,22-12-2024 09:50,No,40,Empowering,Yes,Bronze
+1037,35,Outerwear,Coats,Regular,4,1722,1451,3.24,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,18-03-2025 09:50,No,20,Minimal,No,Bronze
+1001,42,Outerwear,Shrugs,Petite,2,1728,668,4.72,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,27-05-2025 09:50,No,30,Playful,Yes,Gold
+1063,33,Dresses,Shift,Petite,5,2066,719,4.22,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,27-01-2025 09:50,No,40,Emotional,No,Bronze
+1059,22,Dresses,Shift,Regular,1,1316,773,2.76,Didn't like the neckline. Quality seems average.,Negative,No,29-04-2025 09:50,No,50,Minimal,No,Bronze
+1020,43,Bottom,Skirts,Plus Size,3,821,585,2.18,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,10-01-2025 09:50,No,30,Empowering,No,Gold
+1032,20,Dresses,Maxi,Tall,5,2236,1257,2.31,Not what I expected. Material felt a bit off.,Negative,No,30-05-2025 09:50,Yes,40,Playful,No,Bronze
+1075,36,Outerwear,Jackets,Petite,5,2031,869,5.07,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,16-02-2025 09:50,Yes,50,Empowering,Yes,Silver
+1057,24,Loungewear,Lounge Tops,Regular,3,2503,1328,2.1,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,11-01-2025 09:50,No,50,Emotional,No,Gold
+1021,28,Dresses,Shift,Regular,5,2515,913,1.66,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,19-03-2025 09:50,No,10,Playful,No,Gold
+1088,30,Dresses,Shift,Petite,1,2784,1363,2.73,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,07-02-2025 09:50,No,20,Emotional,No,Silver
+1048,45,Bottom,Joggers,Tall,1,1492,696,3.76,Will consider again for future purchases.,Positive,Yes,17-02-2025 09:50,Yes,20,Emotional,No,Bronze
+1090,26,Dresses,Shift,Plus Size,3,1056,591,2.4,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,08-06-2025 09:50,No,0,Minimal,No,Bronze
+1058,44,Dresses,Maxi,Regular,4,2339,870,2.53,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,04-01-2025 09:50,No,30,Empowering,Yes,Gold
+1041,43,Dresses,Wrap,Tall,2,1057,1225,2.15,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,13-06-2025 09:50,Yes,30,Playful,Yes,Gold
+1091,19,Loungewear,Hoodies,Petite,4,2344,984,2.57,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,09-02-2025 09:50,No,40,Emotional,Yes,Silver
+1059,40,Outerwear,Coats,Petite,5,2290,1032,3.23,Looked used and poorly made. Not recommended at all.,Highly Negative,No,07-04-2025 09:50,No,10,Emotional,No,Bronze
+1079,19,Tops,Blouses,Regular,2,1292,941,3.4,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,13-02-2025 09:50,No,40,Playful,No,Bronze
+1014,18,Dresses,Maxi,Plus Size,3,1997,798,3.89,I liked it overall. The color was slightly different but still pretty.,Positive,No,22-02-2025 09:50,No,30,Emotional,No,Bronze
+1061,43,Tops,Tanks,Regular,3,1639,1152,1.88,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,30-04-2025 09:50,Yes,30,Minimal,No,Silver
+1061,35,Outerwear,Jackets,Petite,2,1942,581,4.71,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,09-02-2025 09:50,Yes,50,Minimal,No,Bronze
+1046,42,Tops,Tanks,Regular,1,2276,556,3.98,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,04-05-2025 09:50,Yes,30,Minimal,No,Gold
+1061,24,Loungewear,Leggings,Petite,2,2820,1053,2.65,"Pretty good, fits well and looks nice for casual wear.",Positive,No,10-01-2025 09:50,No,20,Minimal,No,Silver
+1050,41,Tops,Blouses,Regular,5,1615,1365,3.62,Disappointed with the fit. Runs smaller than usual.,Negative,No,03-03-2025 09:50,No,40,Emotional,No,Bronze
+1054,37,Tops,Knits,Tall,1,2621,516,4.76,Didn't like the neckline. Quality seems average.,Negative,No,05-06-2025 09:50,No,20,Playful,No,Silver
+1063,34,Tops,Tanks,Plus Size,3,2587,1291,5.1,Will consider again for future purchases.,Positive,No,07-01-2025 09:50,No,0,Playful,No,Bronze
+1002,44,Outerwear,Shrugs,Tall,2,1140,925,4.23,Would never buy again. Completely different from the images.,Highly Negative,No,01-05-2025 09:50,No,40,Playful,Yes,Silver
+1050,19,Tops,Blouses,Tall,4,2421,628,4.2,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,19-03-2025 09:50,No,20,Playful,No,Silver
+1006,27,Bottom,Skirts,Petite,4,2917,1074,3.76,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,18-02-2025 09:50,No,30,Empowering,No,Gold
+1020,41,Dresses,Shift,Plus Size,5,1226,1043,4.3,Nice fabric and colors. Great for everyday use.,Positive,Yes,03-01-2025 09:50,Yes,20,Playful,No,Gold
+1072,32,Tops,Shirts,Regular,4,900,1480,5.16,Didn't like the neckline. Quality seems average.,Negative,No,29-12-2024 09:50,Yes,40,Empowering,No,Bronze
+1038,30,Loungewear,Hoodies,Tall,2,1141,919,2.97,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,20-03-2025 09:50,No,10,Empowering,No,Bronze
+1017,40,Dresses,Maxi,Regular,2,1640,1336,5.42,Colors were duller than photos. Not very flattering.,Negative,Yes,11-02-2025 09:50,No,50,Minimal,No,Silver
+1003,39,Outerwear,Shrugs,Petite,4,2634,817,4.7,Awful stitching and fabric. Returned immediately.,Highly Negative,No,29-04-2025 09:50,Yes,30,Empowering,No,Bronze
+1088,33,Bottom,Pants,Petite,2,2642,573,3.66,Would never buy again. Completely different from the images.,Highly Negative,Yes,14-03-2025 09:50,No,10,Emotional,No,Bronze
+1059,36,Tops,Knits,Tall,5,941,950,2,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,22-03-2025 09:50,No,20,Empowering,No,Bronze
+1013,25,Dresses,Maxi,Tall,1,1845,659,4.97,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,10-04-2025 09:50,Yes,50,Minimal,No,Silver
+1008,24,Dresses,Wrap,Tall,5,1810,945,3.02,Not what I expected. Material felt a bit off.,Negative,Yes,10-06-2025 09:50,No,20,Empowering,No,Bronze
+1089,35,Loungewear,Lounge Bottoms,Plus Size,5,1433,554,2.39,Didn't like the neckline. Quality seems average.,Negative,Yes,28-12-2024 09:50,No,10,Emotional,Yes,Silver
+1052,41,Bottom,Joggers,Plus Size,2,1726,740,4.85,Not what I expected. Material felt a bit off.,Negative,Yes,13-06-2025 09:50,No,20,Emotional,No,Gold
+1001,28,Outerwear,Jackets,Petite,1,1451,1379,3.24,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,24-01-2025 09:50,Yes,20,Emotional,No,Bronze
+1083,40,Outerwear,Muffler,Plus Size,2,2441,1476,4.64,Would never buy again. Completely different from the images.,Highly Negative,Yes,11-03-2025 09:50,No,30,Minimal,No,Bronze
+1091,22,Dresses,Shift,Regular,3,943,723,4.73,Not what I expected. Material felt a bit off.,Negative,Yes,02-06-2025 09:50,No,30,Minimal,Yes,Bronze
+1059,22,Bottom,Joggers,Petite,2,2288,874,3.96,Colors were duller than photos. Not very flattering.,Negative,Yes,08-02-2025 09:50,No,20,Playful,Yes,Gold
+1070,37,Tops,Tanks,Petite,2,1471,758,5.21,Didn't like the neckline. Quality seems average.,Negative,Yes,03-04-2025 09:50,No,10,Minimal,No,Bronze
+1043,24,Loungewear,Lounge Tops,Petite,2,2993,1286,2.74,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,01-05-2025 09:50,No,30,Emotional,No,Bronze
+1007,22,Bottom,Shorts,Tall,1,1217,1095,2.69,Would never buy again. Completely different from the images.,Highly Negative,No,22-12-2024 09:50,No,20,Emotional,No,Bronze
+1046,44,Outerwear,Coats,Petite,2,2189,692,3.09,I liked it overall. The color was slightly different but still pretty.,Positive,No,03-05-2025 09:50,No,10,Minimal,No,Silver
+1034,30,Tops,Tanks,Regular,1,1755,1462,4.13,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,12-02-2025 09:50,No,50,Empowering,No,Bronze
+1077,19,Bottom,Shorts,Petite,4,1171,987,5.3,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,05-04-2025 09:50,No,30,Minimal,No,Silver
+1080,28,Dresses,Wrap,Tall,3,2658,783,4.06,Will consider again for future purchases.,Positive,Yes,24-12-2024 09:50,Yes,30,Minimal,No,Gold
+1035,22,Tops,Blouses,Petite,1,1203,718,2.71,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,12-02-2025 09:50,No,40,Emotional,No,Bronze
+1049,26,Dresses,Maxi,Regular,4,1722,872,2.42,Awful stitching and fabric. Returned immediately.,Highly Negative,No,15-05-2025 09:50,No,20,Playful,Yes,Gold
+1003,18,Tops,Tanks,Regular,1,2898,958,5.43,Will consider again for future purchases.,Positive,No,02-02-2025 09:50,Yes,40,Emotional,No,Bronze
+1001,33,Outerwear,Jackets,Tall,1,1946,1395,2.86,Happy with the purchase. Arrived earlier than expected.,Positive,No,31-05-2025 09:50,No,20,Playful,No,Gold
+1005,29,Loungewear,Leggings,Tall,3,1270,773,5.13,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,03-01-2025 09:50,Yes,0,Emotional,No,Silver
+1053,38,Tops,Shirts,Regular,5,1377,796,5.32,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,25-03-2025 09:50,No,20,Minimal,No,Gold
+1003,35,Dresses,Gowns,Plus Size,5,990,1015,3.51,Colors were duller than photos. Not very flattering.,Negative,Yes,06-02-2025 09:50,No,20,Emotional,No,Bronze
+1053,35,Tops,Shirts,Tall,1,1615,578,4.34,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,04-01-2025 09:50,No,30,Emotional,No,Bronze
+1092,27,Tops,Tanks,Petite,2,1540,1487,3.2,Not what I expected. Material felt a bit off.,Negative,No,29-01-2025 09:50,Yes,10,Emotional,Yes,Bronze
+1062,24,Outerwear,Coats,Tall,4,2396,699,4.36,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,12-03-2025 09:50,No,10,Minimal,No,Bronze
+1017,43,Tops,Knits,Plus Size,2,943,1298,1.61,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,10-04-2025 09:50,No,10,Minimal,No,Bronze
+1089,18,Tops,Knits,Tall,2,880,1008,5.18,I liked it overall. The color was slightly different but still pretty.,Positive,No,11-02-2025 09:50,No,10,Minimal,No,Bronze
+1043,41,Loungewear,Lounge Bottoms,Tall,1,849,1120,2.36,I liked it overall. The color was slightly different but still pretty.,Positive,Yes,13-01-2025 09:50,No,30,Minimal,Yes,Bronze
+1033,28,Bottom,Joggers,Plus Size,1,1524,682,2.84,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,23-05-2025 09:50,No,10,Playful,No,Bronze
+1073,18,Bottom,Shorts,Plus Size,1,2089,992,3.36,Disappointed with the fit. Runs smaller than usual.,Negative,No,23-04-2025 09:50,No,30,Playful,Yes,Gold
+1061,32,Outerwear,Muffler,Petite,1,1905,1304,5.38,Happy with the purchase. Arrived earlier than expected.,Positive,No,30-01-2025 09:50,No,20,Empowering,No,Bronze
+1099,32,Outerwear,Shrugs,Plus Size,5,2405,963,4.36,Colors were duller than photos. Not very flattering.,Negative,Yes,26-05-2025 09:50,Yes,20,Minimal,No,Bronze
+1013,25,Bottom,Skirts,Regular,1,2222,522,2.51,Nice fabric and colors. Great for everyday use.,Positive,No,04-01-2025 09:50,No,40,Playful,No,Bronze
+1094,24,Tops,Shirts,Regular,5,2285,544,2.39,Nice fabric and colors. Great for everyday use.,Positive,Yes,03-02-2025 09:50,No,20,Emotional,No,Bronze
+1047,45,Tops,Knits,Regular,5,1570,1198,3.09,"Pretty good, fits well and looks nice for casual wear.",Positive,No,23-02-2025 09:50,Yes,30,Minimal,No,Gold
+1014,35,Outerwear,Coats,Petite,1,2300,961,2.13,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,19-03-2025 09:50,No,20,Empowering,Yes,Bronze
+1071,40,Dresses,Maxi,Petite,3,1224,1277,2.53,Would never buy again. Completely different from the images.,Highly Negative,No,01-03-2025 09:50,No,20,Empowering,Yes,Silver
+1077,42,Loungewear,Lounge Tops,Petite,4,2979,729,3.73,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,29-12-2024 09:50,No,50,Empowering,No,Gold
+1086,18,Dresses,Maxi,Tall,2,2355,794,2.39,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,18-03-2025 09:50,No,10,Emotional,No,Gold
+1061,26,Outerwear,Muffler,Regular,5,1427,976,4.16,I liked it overall. The color was slightly different but still pretty.,Positive,No,28-04-2025 09:50,No,0,Playful,No,Silver
+1039,41,Tops,Shirts,Regular,4,2822,683,4.67,Happy with the purchase. Arrived earlier than expected.,Positive,No,05-05-2025 09:50,No,30,Emotional,No,Gold
+1084,39,Tops,Knits,Petite,3,2108,512,5.11,Didn't like the neckline. Quality seems average.,Negative,Yes,21-02-2025 09:50,No,0,Minimal,Yes,Gold
+1079,40,Bottom,Joggers,Plus Size,2,860,1180,1.92,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,08-05-2025 09:50,Yes,40,Empowering,No,Silver
+1081,26,Tops,Knits,Petite,2,2947,873,1.56,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,11-03-2025 09:50,No,20,Emotional,No,Silver
+1052,21,Tops,Blouses,Plus Size,5,1261,1093,5.11,Will consider again for future purchases.,Positive,No,05-05-2025 09:50,No,50,Emotional,No,Silver
+1023,37,Dresses,Wrap,Regular,1,1872,1168,3.96,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,01-06-2025 09:50,Yes,30,Playful,No,Silver
+1025,28,Tops,Shirts,Petite,3,854,1471,4.92,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,01-06-2025 09:50,No,30,Playful,No,Silver
+1088,36,Dresses,Gowns,Petite,5,921,1248,2.59,Will consider again for future purchases.,Positive,No,22-01-2025 09:50,No,50,Empowering,No,Bronze
+1059,27,Bottom,Skirts,Plus Size,3,1707,1214,1.79,Colors were duller than photos. Not very flattering.,Negative,Yes,22-04-2025 09:50,No,20,Emotional,Yes,Bronze
+1040,30,Loungewear,Leggings,Petite,1,1022,568,3.82,Looked used and poorly made. Not recommended at all.,Highly Negative,No,25-12-2024 09:50,No,50,Emotional,Yes,Bronze
+1028,26,Outerwear,Jackets,Plus Size,1,1801,561,2.95,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,30-01-2025 09:50,No,10,Playful,No,Bronze
+1014,25,Bottom,Skirts,Petite,5,1349,1426,2.14,Didn't like the neckline. Quality seems average.,Negative,No,17-01-2025 09:50,No,20,Emotional,No,Bronze
+1044,34,Tops,Tanks,Regular,1,1067,1389,2.83,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,04-05-2025 09:50,Yes,10,Emotional,Yes,Bronze
+1064,42,Bottom,Joggers,Tall,4,2776,1192,2.25,Will consider again for future purchases.,Positive,Yes,02-03-2025 09:50,No,20,Emotional,No,Silver
+1088,23,Dresses,Maxi,Plus Size,2,2839,1347,2.53,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,01-01-2025 09:50,No,10,Playful,No,Bronze
+1070,36,Dresses,Maxi,Regular,5,2468,1380,3.95,Looked used and poorly made. Not recommended at all.,Highly Negative,No,31-05-2025 09:50,Yes,40,Empowering,No,Gold
+1008,45,Outerwear,Muffler,Petite,3,1549,1410,4.94,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,22-01-2025 09:50,No,40,Minimal,No,Bronze
+1087,21,Dresses,Shift,Plus Size,4,1148,818,3.48,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,06-02-2025 09:50,Yes,50,Empowering,No,Bronze
+1000,38,Tops,Shirts,Tall,5,1043,695,2.89,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,20-05-2025 09:50,Yes,10,Minimal,No,Silver
+1007,28,Bottom,Shorts,Tall,1,1761,852,2.62,Happy with the purchase. Arrived earlier than expected.,Positive,No,20-02-2025 09:50,Yes,30,Emotional,Yes,Silver
+1087,22,Tops,Blouses,Regular,1,1061,908,3.3,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,26-01-2025 09:50,Yes,20,Empowering,No,Bronze
+1062,19,Outerwear,Jackets,Petite,1,1103,1177,3.38,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,29-03-2025 09:50,No,20,Minimal,No,Gold
+1010,18,Outerwear,Jackets,Plus Size,1,2721,1199,5.12,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,10-06-2025 09:50,No,20,Playful,No,Gold
+1080,34,Loungewear,Leggings,Petite,3,1480,1209,5.38,Would never buy again. Completely different from the images.,Highly Negative,No,03-04-2025 09:50,No,20,Playful,No,Bronze
+1007,38,Tops,Knits,Regular,4,2004,998,1.95,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,24-01-2025 09:50,No,30,Empowering,No,Bronze
+1034,21,Bottom,Pants,Petite,2,2777,1303,5.3,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,31-03-2025 09:50,No,20,Empowering,No,Gold
+1034,25,Loungewear,Lounge Tops,Regular,3,1496,1095,2.57,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,13-06-2025 09:50,No,20,Emotional,No,Silver
+1032,19,Bottom,Shorts,Tall,3,2255,526,2.14,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,30-04-2025 09:50,Yes,0,Empowering,No,Silver
+1004,31,Bottom,Joggers,Petite,2,2337,1500,1.84,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,21-12-2024 09:50,No,0,Emotional,No,Gold
+1040,22,Dresses,Gowns,Tall,2,2497,964,4.64,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,25-12-2024 09:50,Yes,0,Emotional,Yes,Bronze
+1027,39,Bottom,Shorts,Petite,1,2520,1108,4.57,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,11-05-2025 09:50,No,50,Playful,No,Bronze
+1006,23,Outerwear,Coats,Regular,3,1831,729,5.5,Would never buy again. Completely different from the images.,Highly Negative,Yes,02-04-2025 09:50,Yes,0,Playful,No,Bronze
+1072,18,Dresses,Wrap,Regular,5,1928,1057,1.86,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,16-01-2025 09:50,No,10,Minimal,No,Silver
+1071,27,Dresses,Shift,Regular,2,978,1182,3.29,Awful stitching and fabric. Returned immediately.,Highly Negative,No,06-05-2025 09:50,No,20,Playful,Yes,Silver
+1011,28,Tops,Blouses,Regular,2,1281,597,4.73,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,04-01-2025 09:50,Yes,40,Playful,No,Silver
+1033,36,Tops,Blouses,Regular,4,2239,831,3.72,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,20-03-2025 09:50,Yes,50,Empowering,No,Bronze
+1032,41,Loungewear,Leggings,Tall,5,1744,723,4.42,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,31-01-2025 09:50,No,30,Playful,No,Bronze
+1047,18,Tops,Blouses,Regular,5,2301,710,3.38,Awful stitching and fabric. Returned immediately.,Highly Negative,No,23-04-2025 09:50,Yes,30,Minimal,No,Bronze
+1022,33,Bottom,Joggers,Petite,2,2578,882,2.76,Will consider again for future purchases.,Positive,Yes,17-06-2025 09:50,No,20,Empowering,Yes,Silver
+1061,27,Outerwear,Muffler,Regular,1,1313,1479,2.14,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,21-02-2025 09:50,Yes,0,Minimal,No,Silver
+1087,19,Tops,Blouses,Tall,4,1294,1081,3.63,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,26-03-2025 09:50,Yes,50,Playful,No,Bronze
+1036,41,Bottom,Skirts,Plus Size,5,1224,1181,3.64,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,10-02-2025 09:50,No,30,Minimal,No,Gold
+1098,26,Bottom,Joggers,Tall,2,1633,885,2.73,Nice fabric and colors. Great for everyday use.,Positive,Yes,26-03-2025 09:50,No,30,Empowering,No,Bronze
+1043,31,Dresses,Maxi,Plus Size,5,2497,559,2.23,Didn't like the neckline. Quality seems average.,Negative,No,01-05-2025 09:50,Yes,30,Emotional,Yes,Gold
+1085,28,Dresses,Maxi,Plus Size,4,1163,975,2.71,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,20-05-2025 09:50,Yes,30,Minimal,Yes,Bronze
+1090,38,Outerwear,Shrugs,Petite,4,862,1243,3.76,Disappointed with the fit. Runs smaller than usual.,Negative,No,12-05-2025 09:50,Yes,30,Minimal,Yes,Silver
+1034,30,Dresses,Maxi,Tall,3,1762,514,1.76,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,09-06-2025 09:50,No,50,Empowering,No,Bronze
+1064,21,Bottom,Skirts,Petite,2,1691,612,3.86,Colors were duller than photos. Not very flattering.,Negative,Yes,18-01-2025 09:50,No,50,Empowering,No,Gold
+1098,30,Tops,Shirts,Petite,4,2474,928,5.5,Disappointed with the fit. Runs smaller than usual.,Negative,No,25-01-2025 09:50,No,30,Minimal,No,Bronze
+1046,42,Outerwear,Coats,Plus Size,3,2881,1397,2.98,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,02-01-2025 09:50,No,30,Playful,No,Bronze
+1077,38,Bottom,Joggers,Petite,3,1405,802,2.35,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,29-05-2025 09:50,Yes,0,Minimal,No,Bronze
+1002,32,Bottom,Pants,Plus Size,5,960,1220,4.23,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,01-03-2025 09:50,No,30,Empowering,Yes,Bronze
+1000,39,Dresses,Wrap,Regular,5,979,693,3.64,Not what I expected. Material felt a bit off.,Negative,Yes,16-03-2025 09:50,No,0,Emotional,Yes,Bronze
+1004,41,Dresses,Gowns,Tall,3,1175,797,3.8,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,17-01-2025 09:50,Yes,20,Emotional,No,Gold
+1089,32,Dresses,Gowns,Petite,5,1007,1428,5.02,Awful stitching and fabric. Returned immediately.,Highly Negative,No,24-02-2025 09:50,No,50,Playful,No,Bronze
+1013,23,Loungewear,Lounge Tops,Plus Size,4,1302,1299,4.35,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,08-06-2025 09:50,No,20,Minimal,No,Silver
+1026,28,Bottom,Pants,Regular,1,1451,1157,5.03,Nice fabric and colors. Great for everyday use.,Positive,No,03-02-2025 09:50,No,20,Emotional,No,Silver
+1008,37,Tops,Tanks,Petite,4,2499,1045,5.04,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,20-02-2025 09:50,No,20,Minimal,No,Silver
+1078,42,Dresses,Gowns,Regular,3,1398,677,4.49,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,03-05-2025 09:50,No,10,Empowering,No,Bronze
+1014,40,Tops,Tanks,Regular,3,2543,762,3.04,Happy with the purchase. Arrived earlier than expected.,Positive,No,17-01-2025 09:50,No,30,Emotional,No,Bronze
+1089,45,Bottom,Pants,Regular,4,2268,1101,2.39,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,17-01-2025 09:50,No,10,Playful,No,Silver
+1041,45,Bottom,Pants,Plus Size,5,1899,1441,2.38,Nice fabric and colors. Great for everyday use.,Positive,Yes,07-04-2025 09:50,No,10,Empowering,Yes,Gold
+1076,42,Dresses,Shift,Petite,5,1089,1013,5.19,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,02-02-2025 09:50,No,20,Playful,Yes,Bronze
+1050,23,Dresses,Maxi,Plus Size,3,2846,1027,2.77,Will consider again for future purchases.,Positive,No,14-03-2025 09:50,Yes,30,Empowering,No,Bronze
+1062,21,Tops,Blouses,Regular,2,1935,1198,3.45,Colors were duller than photos. Not very flattering.,Negative,Yes,19-01-2025 09:50,Yes,30,Emotional,No,Bronze
+1095,23,Outerwear,Coats,Plus Size,5,2229,660,2.54,Looked used and poorly made. Not recommended at all.,Highly Negative,No,05-03-2025 09:50,Yes,0,Playful,No,Gold
+1051,35,Loungewear,Lounge Bottoms,Tall,4,2554,1306,4.96,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,27-04-2025 09:50,Yes,20,Playful,Yes,Bronze
+1095,18,Bottom,Shorts,Plus Size,5,2021,1224,3.09,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,22-03-2025 09:50,Yes,20,Empowering,No,Bronze
+1003,44,Dresses,Gowns,Regular,4,1279,544,4.45,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,28-04-2025 09:50,No,30,Playful,No,Gold
+1093,44,Dresses,Maxi,Tall,3,2078,1340,4.76,Colors were duller than photos. Not very flattering.,Negative,Yes,20-04-2025 09:50,No,30,Empowering,No,Bronze
+1022,29,Bottom,Joggers,Regular,5,1289,1372,2.82,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,16-01-2025 09:50,No,20,Empowering,No,Bronze
+1014,37,Bottom,Pants,Regular,4,872,895,1.81,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,20-04-2025 09:50,No,20,Empowering,No,Silver
+1042,37,Tops,Shirts,Tall,3,1830,1383,4.13,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,15-04-2025 09:50,No,20,Empowering,No,Gold
+1028,36,Dresses,Maxi,Tall,2,2876,678,3.26,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,23-12-2024 09:50,No,40,Emotional,No,Bronze
+1035,25,Bottom,Shorts,Petite,4,1383,1324,5.26,Nice fabric and colors. Great for everyday use.,Positive,No,02-04-2025 09:50,No,20,Empowering,No,Bronze
+1012,26,Tops,Knits,Petite,2,2277,627,5.42,Would never buy again. Completely different from the images.,Highly Negative,Yes,24-05-2025 09:50,No,20,Minimal,No,Bronze
+1031,19,Outerwear,Jackets,Regular,2,1213,736,2.99,Will consider again for future purchases.,Positive,No,06-05-2025 09:50,Yes,20,Playful,No,Bronze
+1070,21,Dresses,Gowns,Regular,1,2771,1124,4.31,Not what I expected. Material felt a bit off.,Negative,Yes,20-02-2025 09:50,Yes,20,Minimal,No,Silver
+1058,19,Loungewear,Lounge Bottoms,Tall,5,2591,656,4.6,"Pretty good, fits well and looks nice for casual wear.",Positive,No,03-06-2025 09:50,Yes,40,Emotional,No,Bronze
+1085,34,Tops,Tanks,Regular,4,1848,550,3.47,Will consider again for future purchases.,Positive,Yes,09-02-2025 09:50,Yes,20,Minimal,Yes,Bronze
+1027,23,Bottom,Skirts,Petite,2,2165,1177,4.77,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,10-06-2025 09:50,Yes,30,Playful,No,Bronze
+1065,37,Tops,Tanks,Petite,1,2678,1306,4.2,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,21-05-2025 09:50,No,30,Minimal,No,Silver
+1041,25,Dresses,Wrap,Regular,3,971,1310,4.99,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,17-02-2025 09:50,No,20,Emotional,Yes,Silver
+1044,18,Bottom,Joggers,Plus Size,4,2519,598,4.98,Will consider again for future purchases.,Positive,Yes,17-04-2025 09:50,Yes,20,Empowering,Yes,Gold
+1061,31,Bottom,Shorts,Plus Size,2,2710,557,1.63,Colors were duller than photos. Not very flattering.,Negative,Yes,29-05-2025 09:50,Yes,40,Minimal,No,Bronze
+1056,42,Tops,Shirts,Plus Size,5,2271,1129,3.85,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,26-03-2025 09:50,Yes,20,Emotional,No,Gold
+1005,23,Outerwear,Shrugs,Petite,1,1444,526,5.33,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,18-06-2025 09:50,No,20,Emotional,No,Gold
+1027,21,Tops,Blouses,Plus Size,2,1375,992,3.23,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,12-04-2025 09:50,No,50,Playful,Yes,Bronze
+1027,22,Loungewear,Lounge Bottoms,Tall,5,874,1224,3.13,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,20-02-2025 09:50,No,0,Playful,Yes,Bronze
+1043,26,Tops,Blouses,Petite,2,1731,826,3.77,Would never buy again. Completely different from the images.,Highly Negative,No,10-02-2025 09:50,No,10,Minimal,No,Bronze
+1083,40,Bottom,Shorts,Petite,4,2092,1242,2.7,Not what I expected. Material felt a bit off.,Negative,Yes,01-01-2025 09:50,No,20,Empowering,No,Bronze
+1029,22,Bottom,Shorts,Plus Size,4,1320,1392,4.29,Not what I expected. Material felt a bit off.,Negative,No,28-01-2025 09:50,No,50,Emotional,No,Bronze
+1061,30,Dresses,Gowns,Regular,4,2560,555,5.03,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,29-04-2025 09:50,Yes,0,Minimal,No,Bronze
+1074,19,Dresses,Gowns,Regular,1,2914,1241,3.12,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,30-04-2025 09:50,No,0,Emotional,No,Bronze
+1091,21,Outerwear,Jackets,Plus Size,4,2995,871,4.91,Colors were duller than photos. Not very flattering.,Negative,No,12-04-2025 09:50,No,0,Emotional,No,Gold
+1088,42,Tops,Tanks,Regular,5,1446,633,3.36,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,31-03-2025 09:50,No,0,Empowering,No,Bronze
+1061,24,Loungewear,Lounge Tops,Plus Size,2,1182,560,5.12,Not what I expected. Material felt a bit off.,Negative,No,12-04-2025 09:50,No,0,Empowering,No,Gold
+1096,22,Dresses,Maxi,Tall,3,2901,606,4.62,Didn't like the neckline. Quality seems average.,Negative,No,11-03-2025 09:50,No,20,Minimal,No,Silver
+1000,37,Outerwear,Shrugs,Plus Size,5,2648,1438,4.62,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,12-04-2025 09:50,No,20,Empowering,No,Gold
+1026,37,Bottom,Shorts,Tall,5,2490,974,5.38,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,22-12-2024 09:50,No,10,Empowering,No,Silver
+1061,38,Outerwear,Shrugs,Tall,4,2652,1187,5.02,Will consider again for future purchases.,Positive,No,29-04-2025 09:50,No,20,Minimal,Yes,Bronze
+1076,23,Tops,Blouses,Plus Size,1,2273,894,3.8,Awful stitching and fabric. Returned immediately.,Highly Negative,No,12-02-2025 09:50,No,0,Empowering,No,Silver
+1002,18,Tops,Shirts,Plus Size,2,2966,788,4.39,Looked used and poorly made. Not recommended at all.,Highly Negative,No,17-03-2025 09:50,No,20,Playful,Yes,Bronze
+1069,22,Tops,Knits,Tall,1,1676,1078,5.21,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,28-04-2025 09:50,No,20,Emotional,No,Bronze
+1071,39,Dresses,Wrap,Regular,2,1489,509,1.73,Looked used and poorly made. Not recommended at all.,Highly Negative,No,16-05-2025 09:50,No,30,Emotional,No,Gold
+1026,35,Loungewear,Leggings,Tall,2,1689,570,3.32,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,25-04-2025 09:50,No,0,Emotional,No,Bronze
+1008,23,Tops,Knits,Petite,1,1333,1497,4.02,Nice fabric and colors. Great for everyday use.,Positive,Yes,29-04-2025 09:50,Yes,20,Emotional,No,Bronze
+1061,31,Dresses,Shift,Tall,5,2630,1389,2.02,Would never buy again. Completely different from the images.,Highly Negative,No,11-02-2025 09:50,No,10,Minimal,No,Silver
+1036,30,Outerwear,Muffler,Regular,2,2673,1067,4.06,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,10-06-2025 09:50,No,40,Emotional,No,Gold
+1096,27,Tops,Blouses,Petite,1,1116,1442,4.1,I liked it overall. The color was slightly different but still pretty.,Positive,No,29-05-2025 09:50,No,30,Emotional,Yes,Silver
+1050,45,Bottom,Skirts,Plus Size,2,1007,515,4.58,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,29-05-2025 09:50,No,20,Emotional,No,Bronze
+1043,36,Tops,Knits,Regular,3,2208,1108,3.38,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,26-02-2025 09:50,Yes,10,Emotional,No,Silver
+1023,30,Bottom,Pants,Regular,5,2320,1286,4.85,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,22-04-2025 09:50,No,50,Playful,Yes,Bronze
+1078,20,Bottom,Shorts,Tall,4,921,1206,2.11,Would never buy again. Completely different from the images.,Highly Negative,Yes,14-05-2025 09:50,No,0,Emotional,No,Silver
+1058,30,Outerwear,Jackets,Plus Size,2,2480,1116,2.84,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,27-01-2025 09:50,No,10,Playful,No,Gold
+1031,21,Outerwear,Jackets,Regular,3,2163,1469,2.66,Nice fabric and colors. Great for everyday use.,Positive,No,13-01-2025 09:50,No,20,Minimal,No,Silver
+1095,23,Dresses,Shift,Petite,4,2036,975,4.27,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,27-02-2025 09:50,No,10,Empowering,No,Gold
+1087,36,Bottom,Shorts,Petite,4,2804,686,2.9,Not what I expected. Material felt a bit off.,Negative,No,15-04-2025 09:50,No,50,Emotional,Yes,Bronze
+1051,21,Loungewear,Leggings,Tall,2,2428,1020,2.84,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,28-03-2025 09:50,Yes,30,Empowering,No,Silver
+1061,43,Bottom,Skirts,Petite,1,1225,1325,4.92,Not what I expected. Material felt a bit off.,Negative,No,08-05-2025 09:50,Yes,10,Empowering,Yes,Gold
+1057,23,Tops,Shirts,Regular,2,1915,883,4.16,Colors were duller than photos. Not very flattering.,Negative,No,13-05-2025 09:50,No,20,Minimal,No,Bronze
+1051,44,Bottom,Shorts,Petite,3,1650,1262,4.67,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,27-03-2025 09:50,No,50,Empowering,No,Gold
+1011,21,Tops,Shirts,Regular,4,2871,1302,4.96,Would never buy again. Completely different from the images.,Highly Negative,Yes,23-04-2025 09:50,Yes,40,Playful,No,Bronze
+1038,35,Outerwear,Jackets,Plus Size,2,2036,669,2.5,Colors were duller than photos. Not very flattering.,Negative,No,28-02-2025 09:50,No,30,Empowering,No,Silver
+1001,27,Outerwear,Shrugs,Petite,1,1377,723,3.11,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,23-03-2025 09:50,No,50,Empowering,Yes,Gold
+1002,18,Bottom,Pants,Petite,2,2579,782,4.15,Disappointed with the fit. Runs smaller than usual.,Negative,No,23-12-2024 09:50,No,50,Empowering,Yes,Silver
+1055,36,Dresses,Wrap,Regular,5,2829,813,2.13,Colors were duller than photos. Not very flattering.,Negative,No,17-05-2025 09:50,No,30,Emotional,Yes,Bronze
+1080,24,Tops,Tanks,Tall,1,2915,1052,1.72,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,02-06-2025 09:50,No,0,Emotional,No,Silver
+1058,32,Tops,Tanks,Regular,3,1052,1031,4.96,Happy with the purchase. Arrived earlier than expected.,Positive,No,16-05-2025 09:50,No,20,Playful,Yes,Silver
+1001,40,Tops,Tanks,Plus Size,4,2592,800,5.14,Will consider again for future purchases.,Positive,No,20-03-2025 09:50,No,40,Playful,No,Gold
+1001,40,Tops,Tanks,Regular,2,1370,1208,1.87,"Pretty good, fits well and looks nice for casual wear.",Positive,No,16-05-2025 09:50,Yes,10,Emotional,No,Bronze
+1091,32,Tops,Tanks,Plus Size,1,1393,1065,1.67,Would never buy again. Completely different from the images.,Highly Negative,Yes,17-05-2025 09:50,No,40,Playful,No,Bronze
+1053,20,Outerwear,Muffler,Plus Size,5,1342,902,4.08,Nice fabric and colors. Great for everyday use.,Positive,No,26-03-2025 09:50,No,10,Emotional,Yes,Silver
+1086,43,Outerwear,Shrugs,Petite,1,2778,741,1.74,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,10-02-2025 09:50,No,0,Minimal,No,Bronze
+1095,20,Dresses,Maxi,Petite,5,2239,715,4.22,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,30-05-2025 09:50,No,20,Empowering,No,Silver
+1096,20,Dresses,Wrap,Regular,3,1527,729,3.02,Will consider again for future purchases.,Positive,Yes,06-06-2025 09:50,No,0,Empowering,No,Silver
+1000,34,Loungewear,Hoodies,Tall,4,1903,994,4.91,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,27-04-2025 09:50,No,50,Playful,No,Gold
+1018,22,Dresses,Wrap,Regular,3,938,961,4.91,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,28-01-2025 09:50,Yes,40,Emotional,Yes,Silver
+1001,29,Tops,Knits,Tall,2,2569,758,5.25,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,12-03-2025 09:50,No,40,Emotional,No,Silver
+1052,19,Tops,Blouses,Plus Size,1,2746,817,1.55,Awful stitching and fabric. Returned immediately.,Highly Negative,No,03-04-2025 09:50,No,30,Playful,No,Bronze
+1043,44,Dresses,Wrap,Regular,5,874,631,4.97,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,28-04-2025 09:50,No,10,Emotional,No,Bronze
+1089,30,Tops,Tanks,Regular,5,1161,899,2.85,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,31-12-2024 09:50,Yes,20,Minimal,No,Bronze
+1031,32,Dresses,Maxi,Regular,1,1180,729,4.04,Will consider again for future purchases.,Positive,Yes,16-06-2025 09:50,No,20,Empowering,No,Bronze
+1069,40,Outerwear,Shrugs,Tall,1,1003,1290,3.7,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,20-05-2025 09:50,No,20,Playful,No,Silver
+1031,36,Outerwear,Shrugs,Plus Size,2,817,1326,3.25,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,28-05-2025 09:50,No,10,Playful,No,Silver
+1067,22,Loungewear,Lounge Bottoms,Plus Size,3,2846,1117,3.32,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,31-01-2025 09:50,No,20,Emotional,No,Silver
+1054,42,Dresses,Shift,Tall,5,1412,1278,4.99,Nice fabric and colors. Great for everyday use.,Positive,No,29-03-2025 09:50,Yes,20,Playful,No,Gold
+1074,42,Dresses,Gowns,Plus Size,2,2110,1271,3.43,"Pretty good, fits well and looks nice for casual wear.",Positive,No,27-12-2024 09:50,No,50,Minimal,No,Gold
+1055,44,Dresses,Maxi,Petite,3,1360,1278,5.16,Didn't like the neckline. Quality seems average.,Negative,Yes,13-05-2025 09:50,No,40,Emotional,No,Gold
+1016,25,Tops,Shirts,Regular,2,2287,1272,1.83,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,20-03-2025 09:50,Yes,20,Emotional,Yes,Silver
+1037,21,Loungewear,Leggings,Regular,5,1270,1306,2.29,Looked used and poorly made. Not recommended at all.,Highly Negative,No,11-04-2025 09:50,No,30,Emotional,Yes,Silver
+1023,24,Bottom,Pants,Plus Size,1,2084,1014,5.4,Awful stitching and fabric. Returned immediately.,Highly Negative,No,18-02-2025 09:50,No,30,Emotional,No,Bronze
+1068,44,Outerwear,Jackets,Regular,1,1726,636,4.13,Happy with the purchase. Arrived earlier than expected.,Positive,No,12-04-2025 09:50,No,0,Minimal,No,Bronze
+1097,33,Outerwear,Muffler,Petite,3,1450,769,3.9,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,22-12-2024 09:50,Yes,40,Emotional,No,Bronze
+1069,21,Tops,Knits,Plus Size,4,2235,834,5.12,Nice fabric and colors. Great for everyday use.,Positive,No,28-04-2025 09:50,No,40,Playful,No,Gold
+1085,25,Loungewear,Lounge Tops,Tall,3,2103,628,3.05,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,06-02-2025 09:50,Yes,20,Minimal,No,Gold
+1010,21,Dresses,Shift,Petite,4,1501,517,5.22,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,09-05-2025 09:50,No,20,Empowering,Yes,Bronze
+1015,37,Tops,Knits,Regular,2,2830,796,3.64,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,26-01-2025 09:50,Yes,10,Empowering,No,Bronze
+1096,29,Bottom,Pants,Tall,2,2951,950,2.22,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,29-05-2025 09:50,No,20,Playful,Yes,Gold
+1072,23,Bottom,Pants,Plus Size,5,2876,1451,2.68,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,29-12-2024 09:50,No,0,Playful,No,Bronze
+1058,30,Loungewear,Lounge Bottoms,Petite,4,2366,1129,5.14,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,29-03-2025 09:50,No,40,Minimal,No,Bronze
+1069,35,Dresses,Shift,Tall,5,1894,1227,3.65,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,16-05-2025 09:50,No,0,Empowering,Yes,Gold
+1079,42,Tops,Knits,Petite,1,1561,768,3.43,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,06-02-2025 09:50,Yes,20,Empowering,No,Bronze
+1092,30,Bottom,Joggers,Petite,4,1645,570,3.25,Looked used and poorly made. Not recommended at all.,Highly Negative,No,30-04-2025 09:50,No,50,Empowering,No,Bronze
+1002,40,Outerwear,Shrugs,Plus Size,3,1624,1080,2.4,Would never buy again. Completely different from the images.,Highly Negative,No,17-05-2025 09:50,No,30,Empowering,No,Silver
+1019,23,Tops,Tanks,Regular,1,1330,1167,3.14,Not what I expected. Material felt a bit off.,Negative,No,21-05-2025 09:50,No,10,Empowering,No,Gold
+1058,45,Bottom,Pants,Tall,1,2642,1330,3.4,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,12-02-2025 09:50,Yes,10,Emotional,No,Silver
+1035,31,Tops,Blouses,Plus Size,3,1092,1223,3.3,Colors were duller than photos. Not very flattering.,Negative,Yes,19-04-2025 09:50,Yes,0,Playful,Yes,Bronze
+1018,34,Tops,Tanks,Petite,1,1809,565,4.75,Colors were duller than photos. Not very flattering.,Negative,Yes,30-05-2025 09:50,Yes,30,Emotional,Yes,Bronze
+1089,20,Dresses,Shift,Plus Size,4,2397,874,5.16,"Pretty good, fits well and looks nice for casual wear.",Positive,No,21-05-2025 09:50,No,0,Empowering,Yes,Bronze
+1066,43,Loungewear,Leggings,Regular,5,1244,822,3.32,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,15-04-2025 09:50,No,20,Minimal,No,Silver
+1018,24,Bottom,Joggers,Tall,1,2559,1213,4.36,Didn't like the neckline. Quality seems average.,Negative,Yes,05-03-2025 09:50,No,50,Minimal,No,Silver
+1019,28,Bottom,Joggers,Regular,4,1876,1429,4.8,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,12-04-2025 09:50,Yes,10,Empowering,No,Bronze
+1095,24,Bottom,Joggers,Plus Size,2,1145,536,2.55,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,02-06-2025 09:50,No,40,Empowering,Yes,Gold
+1070,45,Dresses,Gowns,Tall,4,2270,1430,4.58,Awful stitching and fabric. Returned immediately.,Highly Negative,No,04-06-2025 09:50,No,50,Minimal,No,Bronze
+1051,27,Bottom,Shorts,Regular,5,2192,933,3.63,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,03-04-2025 09:50,No,0,Emotional,No,Bronze
+1032,31,Bottom,Shorts,Petite,4,1459,608,3.22,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,14-03-2025 09:50,Yes,40,Emotional,No,Bronze
+1039,40,Outerwear,Shrugs,Tall,3,2167,684,4.56,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,11-04-2025 09:50,No,20,Empowering,No,Bronze
+1038,44,Loungewear,Lounge Bottoms,Tall,5,817,1284,1.76,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,29-03-2025 09:50,Yes,50,Emotional,No,Silver
+1081,24,Tops,Shirts,Plus Size,2,1545,550,3.38,Will consider again for future purchases.,Positive,No,22-05-2025 09:50,No,20,Minimal,Yes,Silver
+1000,24,Bottom,Pants,Petite,3,1082,1173,5.04,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,23-03-2025 09:50,No,30,Emotional,No,Bronze
+1010,32,Loungewear,Lounge Bottoms,Tall,4,2515,620,2.64,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,15-05-2025 09:50,Yes,20,Empowering,No,Silver
+1091,28,Loungewear,Leggings,Regular,5,2698,1101,2.58,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,27-04-2025 09:50,No,40,Minimal,No,Bronze
+1056,26,Tops,Blouses,Plus Size,2,1603,547,4.2,I liked it overall. The color was slightly different but still pretty.,Positive,No,09-04-2025 09:50,Yes,30,Emotional,No,Silver
+1088,27,Dresses,Maxi,Regular,3,1475,1086,2.7,Will consider again for future purchases.,Positive,Yes,12-03-2025 09:50,No,20,Playful,No,Gold
+1049,34,Dresses,Wrap,Regular,2,1015,1440,2.87,Looked used and poorly made. Not recommended at all.,Highly Negative,No,12-02-2025 09:50,No,40,Minimal,No,Bronze
+1022,37,Bottom,Joggers,Plus Size,4,2676,1223,3.84,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,01-06-2025 09:50,No,10,Minimal,No,Silver
+1030,18,Tops,Knits,Tall,2,1225,781,2.1,Nice fabric and colors. Great for everyday use.,Positive,Yes,07-06-2025 09:50,No,10,Playful,No,Bronze
+1093,36,Dresses,Maxi,Regular,1,1576,852,5.28,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,30-05-2025 09:50,No,10,Playful,No,Bronze
+1041,29,Bottom,Shorts,Regular,3,2227,1467,3.48,Awful stitching and fabric. Returned immediately.,Highly Negative,No,26-02-2025 09:50,No,20,Minimal,No,Bronze
+1098,31,Outerwear,Muffler,Petite,2,1035,1014,3.73,Will consider again for future purchases.,Positive,Yes,22-01-2025 09:50,No,10,Playful,No,Silver
+1006,43,Loungewear,Hoodies,Petite,4,2830,1169,3.65,Not what I expected. Material felt a bit off.,Negative,Yes,11-05-2025 09:50,No,50,Empowering,No,Silver
+1015,36,Dresses,Wrap,Tall,4,2827,1447,2.64,Didn't like the neckline. Quality seems average.,Negative,No,10-01-2025 09:50,No,10,Empowering,No,Bronze
+1089,30,Bottom,Joggers,Regular,2,2819,1083,3.12,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,06-02-2025 09:50,No,30,Empowering,Yes,Gold
+1059,43,Tops,Shirts,Regular,4,1747,545,3.65,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,17-05-2025 09:50,No,10,Minimal,No,Silver
+1001,37,Tops,Knits,Regular,5,1627,1238,3.74,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,27-04-2025 09:50,No,40,Playful,No,Gold
+1000,39,Loungewear,Lounge Bottoms,Regular,5,2356,1436,2.96,Disappointed with the fit. Runs smaller than usual.,Negative,No,05-05-2025 09:50,No,50,Playful,No,Silver
+1047,29,Bottom,Skirts,Plus Size,5,2107,1268,5.06,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,04-05-2025 09:50,No,20,Emotional,No,Silver
+1011,26,Dresses,Wrap,Regular,1,2981,1144,2.15,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,14-05-2025 09:50,Yes,40,Emotional,No,Bronze
+1068,27,Bottom,Skirts,Plus Size,2,1052,1321,4.88,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,27-04-2025 09:50,No,0,Playful,No,Bronze
+1036,35,Dresses,Shift,Tall,1,2117,1181,1.53,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,22-01-2025 09:50,No,40,Playful,No,Gold
+1031,18,Tops,Shirts,Petite,4,2909,1200,2.21,"Pretty good, fits well and looks nice for casual wear.",Positive,No,14-06-2025 09:50,No,10,Playful,Yes,Bronze
+1008,34,Tops,Blouses,Tall,1,2440,592,5.33,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,14-04-2025 09:50,Yes,50,Minimal,No,Gold
+1098,42,Outerwear,Coats,Petite,4,1295,735,1.82,Nice fabric and colors. Great for everyday use.,Positive,No,18-04-2025 09:50,Yes,0,Playful,No,Silver
+1018,32,Dresses,Shift,Tall,4,2042,1222,4.24,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,11-01-2025 09:50,No,20,Emotional,No,Bronze
+1047,44,Loungewear,Lounge Tops,Regular,3,2977,1491,1.93,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,27-05-2025 09:50,No,30,Minimal,No,Bronze
+1079,34,Tops,Blouses,Plus Size,5,2028,1168,1.7,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,27-01-2025 09:50,No,10,Playful,Yes,Bronze
+1002,39,Bottom,Shorts,Petite,4,1128,767,4.55,Will consider again for future purchases.,Positive,Yes,08-04-2025 09:50,Yes,10,Emotional,No,Gold
+1019,44,Bottom,Pants,Plus Size,3,1724,1487,5.36,Would never buy again. Completely different from the images.,Highly Negative,Yes,09-02-2025 09:50,No,0,Minimal,Yes,Bronze
+1023,44,Bottom,Shorts,Plus Size,5,1103,535,4.35,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,28-12-2024 09:50,Yes,20,Playful,Yes,Bronze
+1053,45,Tops,Shirts,Regular,4,1090,1060,4.35,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,16-01-2025 09:50,No,20,Playful,Yes,Bronze
+1032,26,Bottom,Joggers,Plus Size,4,1265,704,4.15,Awful stitching and fabric. Returned immediately.,Highly Negative,No,16-01-2025 09:50,Yes,10,Playful,Yes,Bronze
+1023,20,Bottom,Skirts,Plus Size,1,2700,611,2.1,Disappointed with the fit. Runs smaller than usual.,Negative,No,10-01-2025 09:50,Yes,20,Minimal,Yes,Bronze
+1074,23,Loungewear,Lounge Bottoms,Tall,1,1188,970,3.81,Nice fabric and colors. Great for everyday use.,Positive,No,19-01-2025 09:50,No,0,Emotional,No,Bronze
+1071,26,Bottom,Pants,Petite,5,2654,1450,2,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,27-03-2025 09:50,No,40,Emotional,No,Gold
+1035,41,Outerwear,Shrugs,Petite,4,1569,710,4.68,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,17-01-2025 09:50,No,10,Empowering,No,Bronze
+1037,27,Bottom,Skirts,Plus Size,2,2676,1479,1.62,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,10-04-2025 09:50,No,10,Playful,No,Bronze
+1083,39,Tops,Tanks,Regular,1,2277,607,5.42,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,19-02-2025 09:50,No,0,Empowering,No,Bronze
+1098,29,Bottom,Skirts,Regular,5,1046,824,5.08,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,06-02-2025 09:50,Yes,20,Empowering,Yes,Bronze
+1088,24,Loungewear,Leggings,Tall,4,1511,1413,3.38,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,16-05-2025 09:50,No,40,Emotional,No,Gold
+1098,30,Bottom,Shorts,Plus Size,4,2129,803,1.93,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,24-12-2024 09:50,No,20,Minimal,No,Silver
+1024,20,Bottom,Pants,Tall,2,2767,654,5.03,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,24-01-2025 09:50,No,10,Minimal,Yes,Bronze
+1092,37,Tops,Shirts,Plus Size,5,1250,503,2.64,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,07-02-2025 09:50,No,30,Emotional,No,Silver
+1017,41,Tops,Knits,Regular,4,1590,1452,1.66,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,06-01-2025 09:50,No,30,Minimal,No,Bronze
+1081,42,Dresses,Maxi,Regular,1,1564,1338,4.36,Would never buy again. Completely different from the images.,Highly Negative,No,10-06-2025 09:50,No,10,Empowering,No,Bronze
+1065,26,Dresses,Gowns,Plus Size,2,1276,1247,1.66,Colors were duller than photos. Not very flattering.,Negative,No,27-05-2025 09:50,No,30,Playful,Yes,Gold
+1053,38,Tops,Tanks,Tall,5,1637,913,2.02,"Pretty good, fits well and looks nice for casual wear.",Positive,No,04-02-2025 09:50,No,50,Emotional,No,Silver
+1034,39,Tops,Blouses,Regular,2,2749,680,5.28,Colors were duller than photos. Not very flattering.,Negative,No,16-04-2025 09:50,Yes,10,Playful,No,Gold
+1079,44,Bottom,Joggers,Tall,1,2561,1275,3.81,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,26-12-2024 09:50,No,30,Minimal,Yes,Bronze
+1060,29,Loungewear,Leggings,Petite,5,2203,579,3.63,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,29-03-2025 09:50,No,30,Playful,No,Silver
+1040,39,Dresses,Maxi,Tall,2,2591,1462,4.22,Will consider again for future purchases.,Positive,Yes,23-04-2025 09:50,Yes,20,Minimal,No,Bronze
+1099,45,Bottom,Joggers,Regular,3,2959,1134,5.08,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,26-01-2025 09:50,No,0,Minimal,No,Bronze
+1032,32,Dresses,Gowns,Regular,1,1714,1272,4.1,Awful stitching and fabric. Returned immediately.,Highly Negative,No,13-01-2025 09:50,No,0,Empowering,No,Gold
+1067,33,Bottom,Shorts,Tall,1,2870,1442,2.01,Colors were duller than photos. Not very flattering.,Negative,Yes,23-03-2025 09:50,No,40,Minimal,No,Bronze
+1032,31,Tops,Tanks,Regular,1,2630,1190,3.88,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,04-02-2025 09:50,No,50,Empowering,No,Gold
+1013,44,Dresses,Gowns,Petite,3,1381,705,3.49,I liked it overall. The color was slightly different but still pretty.,Positive,No,25-03-2025 09:50,Yes,30,Empowering,No,Silver
+1020,30,Loungewear,Hoodies,Plus Size,3,2208,1439,4.36,Nice fabric and colors. Great for everyday use.,Positive,Yes,29-03-2025 09:50,No,20,Empowering,Yes,Bronze
+1047,22,Bottom,Shorts,Regular,4,1904,902,2.39,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,15-04-2025 09:50,No,30,Emotional,No,Silver
+1019,42,Tops,Blouses,Regular,2,2077,1419,4.77,I liked it overall. The color was slightly different but still pretty.,Positive,Yes,29-05-2025 09:50,No,20,Emotional,No,Silver
+1007,18,Tops,Knits,Tall,4,2784,725,2.55,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,30-05-2025 09:50,No,20,Minimal,No,Bronze
+1006,43,Tops,Blouses,Petite,2,1882,841,4.72,Would never buy again. Completely different from the images.,Highly Negative,Yes,25-02-2025 09:50,No,0,Empowering,Yes,Gold
+1066,45,Dresses,Shift,Plus Size,3,1617,1174,2.28,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,27-04-2025 09:50,No,40,Emotional,No,Silver
+1016,21,Bottom,Pants,Tall,3,1287,1380,4.5,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,07-01-2025 09:50,No,20,Empowering,No,Bronze
+1032,37,Loungewear,Lounge Tops,Tall,4,921,1374,1.95,Colors were duller than photos. Not very flattering.,Negative,Yes,14-01-2025 09:50,No,40,Playful,No,Silver
+1047,39,Dresses,Maxi,Petite,5,2705,892,4.4,Will consider again for future purchases.,Positive,Yes,12-02-2025 09:50,Yes,10,Playful,No,Gold
+1075,30,Outerwear,Coats,Plus Size,4,1013,994,3.62,Happy with the purchase. Arrived earlier than expected.,Positive,No,16-02-2025 09:50,No,0,Playful,Yes,Bronze
+1058,41,Dresses,Maxi,Petite,2,1238,565,3.74,Happy with the purchase. Arrived earlier than expected.,Positive,No,25-02-2025 09:50,Yes,10,Minimal,No,Gold
+1085,44,Tops,Blouses,Plus Size,4,1514,828,3.67,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,03-04-2025 09:50,Yes,20,Empowering,No,Bronze
+1021,27,Tops,Shirts,Petite,1,1778,1093,3.03,Will consider again for future purchases.,Positive,No,12-06-2025 09:50,Yes,50,Playful,Yes,Silver
+1029,24,Bottom,Skirts,Tall,2,1214,1262,4.67,Colors were duller than photos. Not very flattering.,Negative,Yes,13-01-2025 09:50,Yes,10,Emotional,No,Silver
+1037,42,Bottom,Skirts,Tall,2,2412,845,4.55,Colors were duller than photos. Not very flattering.,Negative,No,13-04-2025 09:50,No,40,Playful,No,Bronze
+1050,20,Loungewear,Hoodies,Tall,5,2272,1461,2.89,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,21-01-2025 09:50,No,20,Playful,No,Bronze
+1053,40,Dresses,Shift,Regular,3,1399,1437,3.13,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,13-06-2025 09:50,No,40,Playful,No,Silver
+1007,26,Dresses,Wrap,Petite,2,1874,1343,4.01,I liked it overall. The color was slightly different but still pretty.,Positive,Yes,16-03-2025 09:50,Yes,10,Minimal,No,Bronze
+1026,39,Dresses,Maxi,Regular,3,2667,1126,3.11,Will consider again for future purchases.,Positive,No,20-05-2025 09:50,No,40,Emotional,No,Silver
+1026,29,Bottom,Skirts,Regular,4,2895,969,3.58,"Pretty good, fits well and looks nice for casual wear.",Positive,No,26-04-2025 09:50,No,30,Empowering,No,Bronze
+1097,39,Loungewear,Lounge Bottoms,Petite,1,1124,1024,4.77,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,24-05-2025 09:50,No,10,Emotional,No,Gold
+1020,40,Bottom,Pants,Plus Size,5,2615,570,4.57,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,29-04-2025 09:50,No,10,Empowering,Yes,Silver
+1029,27,Bottom,Shorts,Regular,3,873,855,1.95,Nice fabric and colors. Great for everyday use.,Positive,No,06-01-2025 09:50,No,40,Minimal,No,Gold
+1096,40,Outerwear,Shrugs,Tall,2,2094,654,1.67,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,03-04-2025 09:50,Yes,50,Minimal,No,Bronze
+1027,22,Dresses,Wrap,Regular,3,1064,700,3.33,Will consider again for future purchases.,Positive,No,30-05-2025 09:50,No,0,Minimal,No,Silver
+1063,37,Tops,Tanks,Regular,2,1934,1330,2.36,Not what I expected. Material felt a bit off.,Negative,Yes,06-05-2025 09:50,No,30,Minimal,No,Silver
+1096,35,Tops,Blouses,Regular,3,2329,1108,3.29,Looked used and poorly made. Not recommended at all.,Highly Negative,No,01-02-2025 09:50,No,50,Empowering,No,Bronze
+1068,27,Dresses,Gowns,Tall,2,958,1265,4.81,Will consider again for future purchases.,Positive,No,14-06-2025 09:50,Yes,40,Playful,No,Bronze
+1060,23,Loungewear,Hoodies,Petite,4,1127,1406,4.13,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,28-01-2025 09:50,No,50,Empowering,Yes,Bronze
+1047,29,Bottom,Skirts,Plus Size,2,1448,1067,4.51,Happy with the purchase. Arrived earlier than expected.,Positive,No,08-06-2025 09:50,No,30,Emotional,No,Silver
+1018,40,Bottom,Joggers,Tall,2,2704,652,3.42,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,15-01-2025 09:50,No,20,Minimal,No,Silver
+1003,31,Bottom,Joggers,Plus Size,1,2409,535,1.56,Didn't like the neckline. Quality seems average.,Negative,No,29-03-2025 09:50,No,20,Minimal,No,Bronze
+1034,29,Bottom,Pants,Petite,2,1498,516,3,Would never buy again. Completely different from the images.,Highly Negative,No,08-02-2025 09:50,No,20,Emotional,No,Silver
+1063,27,Tops,Knits,Regular,1,1553,818,3.73,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,22-05-2025 09:50,Yes,30,Empowering,No,Bronze
+1048,43,Dresses,Wrap,Plus Size,5,1557,744,2.31,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,21-05-2025 09:50,Yes,30,Playful,No,Bronze
+1016,29,Loungewear,Hoodies,Tall,1,2829,560,5.09,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,02-01-2025 09:50,No,10,Playful,No,Gold
+1043,19,Outerwear,Muffler,Petite,4,2991,1230,5.33,"Pretty good, fits well and looks nice for casual wear.",Positive,No,18-02-2025 09:50,No,40,Emotional,No,Gold
+1091,19,Bottom,Shorts,Tall,1,2166,892,1.89,I liked it overall. The color was slightly different but still pretty.,Positive,No,04-05-2025 09:50,No,30,Playful,No,Silver
+1029,19,Bottom,Joggers,Petite,5,2188,700,3.8,Didn't like the neckline. Quality seems average.,Negative,No,15-02-2025 09:50,No,20,Empowering,Yes,Bronze
+1092,34,Bottom,Pants,Tall,4,2949,1361,1.68,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,25-01-2025 09:50,No,20,Empowering,No,Silver
+1045,40,Dresses,Wrap,Tall,3,1853,1105,2.01,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,11-06-2025 09:50,No,20,Emotional,No,Bronze
+1005,39,Bottom,Skirts,Tall,3,2693,1257,3.85,Nice fabric and colors. Great for everyday use.,Positive,Yes,09-01-2025 09:50,No,10,Empowering,No,Bronze
+1098,30,Dresses,Shift,Regular,1,1876,1004,1.83,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,23-02-2025 09:50,No,10,Minimal,Yes,Bronze
+1036,43,Bottom,Shorts,Plus Size,1,2027,1330,1.73,I liked it overall. The color was slightly different but still pretty.,Positive,Yes,28-12-2024 09:50,No,0,Emotional,Yes,Silver
+1023,19,Loungewear,Lounge Tops,Tall,5,2180,685,2.36,Would never buy again. Completely different from the images.,Highly Negative,Yes,13-05-2025 09:50,No,10,Empowering,No,Silver
+1092,45,Tops,Tanks,Regular,5,1584,1194,4.71,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,11-05-2025 09:50,No,20,Emotional,Yes,Bronze
+1045,26,Bottom,Skirts,Petite,2,1092,712,2.92,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,14-04-2025 09:50,No,20,Playful,No,Silver
+1052,38,Dresses,Wrap,Tall,5,2682,587,2.16,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,12-05-2025 09:50,No,0,Empowering,No,Gold
+1094,30,Tops,Shirts,Regular,2,2461,1412,2.92,Disappointed with the fit. Runs smaller than usual.,Negative,No,22-03-2025 09:50,No,30,Minimal,No,Bronze
+1098,18,Bottom,Joggers,Plus Size,4,1994,828,1.99,"Pretty good, fits well and looks nice for casual wear.",Positive,Yes,28-03-2025 09:50,No,10,Empowering,Yes,Silver
+1059,34,Loungewear,Hoodies,Tall,1,1351,776,3.29,Disappointed with the fit. Runs smaller than usual.,Negative,Yes,24-02-2025 09:50,Yes,50,Emotional,No,Gold
+1096,28,Outerwear,Shrugs,Tall,4,2640,905,2.89,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,21-01-2025 09:50,Yes,50,Emotional,Yes,Bronze
+1062,33,Dresses,Maxi,Petite,5,2024,815,3.92,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,16-03-2025 09:50,No,10,Empowering,Yes,Bronze
+1084,43,Dresses,Shift,Regular,4,2856,796,2.76,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,09-02-2025 09:50,No,20,Minimal,No,Silver
+1031,21,Tops,Shirts,Regular,4,2255,608,4.37,Nice fabric and colors. Great for everyday use.,Positive,No,22-05-2025 09:50,No,0,Minimal,No,Silver
+1086,43,Dresses,Maxi,Petite,4,1151,1150,2.76,Will consider again for future purchases.,Positive,Yes,21-02-2025 09:50,No,20,Minimal,No,Gold
+1032,35,Loungewear,Lounge Bottoms,Petite,5,1352,1166,3.22,Awful stitching and fabric. Returned immediately.,Highly Negative,No,24-04-2025 09:50,No,30,Emotional,No,Bronze
+1066,18,Bottom,Shorts,Petite,4,2494,542,3.48,Will consider again for future purchases.,Positive,Yes,19-05-2025 09:50,Yes,10,Empowering,No,Gold
+1017,37,Bottom,Pants,Regular,2,1007,689,4.53,I liked it overall. The color was slightly different but still pretty.,Positive,No,16-02-2025 09:50,No,20,Playful,No,Bronze
+1024,22,Bottom,Skirts,Petite,5,1992,1040,4.63,Nice fabric and colors. Great for everyday use.,Positive,No,16-02-2025 09:50,No,10,Emotional,No,Bronze
+1094,22,Bottom,Shorts,Plus Size,4,1868,500,3.37,Not what I expected. Material felt a bit off.,Negative,No,16-03-2025 09:50,No,10,Minimal,No,Silver
+1053,45,Bottom,Skirts,Tall,5,2251,849,4.4,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,07-02-2025 09:50,No,30,Empowering,Yes,Bronze
+1057,24,Loungewear,Lounge Bottoms,Tall,3,2689,1077,5.44,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,18-06-2025 09:50,No,20,Minimal,No,Bronze
+1066,31,Bottom,Pants,Plus Size,2,1194,1082,4.39,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,08-06-2025 09:50,No,20,Playful,Yes,Bronze
+1045,25,Tops,Shirts,Plus Size,4,2497,820,2.43,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,28-02-2025 09:50,No,20,Minimal,No,Bronze
+1023,31,Outerwear,Jackets,Tall,3,2873,1118,4.4,Would never buy again. Completely different from the images.,Highly Negative,Yes,04-01-2025 09:50,No,50,Minimal,No,Bronze
+1031,43,Tops,Knits,Regular,3,845,694,3.08,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,12-02-2025 09:50,Yes,10,Playful,No,Gold
+1046,22,Tops,Blouses,Regular,5,1052,991,2.76,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,31-03-2025 09:50,Yes,20,Empowering,No,Bronze
+1085,33,Loungewear,Lounge Bottoms,Regular,3,928,899,2.46,Awful stitching and fabric. Returned immediately.,Highly Negative,No,28-12-2024 09:50,No,30,Emotional,No,Silver
+1022,31,Tops,Blouses,Regular,2,2485,1026,4.26,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,11-02-2025 09:50,No,20,Empowering,Yes,Silver
+1065,24,Bottom,Joggers,Regular,2,2439,1211,5.16,I liked it overall. The color was slightly different but still pretty.,Positive,No,18-02-2025 09:50,No,50,Playful,No,Gold
+1026,40,Tops,Blouses,Petite,1,2010,1054,3.96,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,07-04-2025 09:50,Yes,30,Minimal,No,Bronze
+1001,43,Dresses,Wrap,Tall,2,2356,1269,4.42,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,25-12-2024 09:50,No,30,Empowering,No,Gold
+1089,30,Tops,Blouses,Tall,3,1608,1256,1.89,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,02-04-2025 09:50,No,30,Emotional,Yes,Silver
+1016,33,Loungewear,Leggings,Tall,2,2602,1500,4.39,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,26-12-2024 09:50,No,50,Playful,No,Silver
+1032,33,Bottom,Joggers,Regular,5,1946,968,1.9,"Pretty good, fits well and looks nice for casual wear.",Positive,No,08-04-2025 09:50,No,50,Empowering,No,Silver
+1008,43,Tops,Knits,Plus Size,1,2001,560,2.76,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,15-04-2025 09:50,No,30,Emotional,No,Gold
+1042,23,Dresses,Gowns,Plus Size,3,2992,1485,3.5,Awful stitching and fabric. Returned immediately.,Highly Negative,No,24-03-2025 09:50,No,30,Playful,No,Bronze
+1047,36,Bottom,Pants,Regular,1,2949,565,3.47,Too tight and shrunk after first wash. Waste of money.,Highly Negative,Yes,05-02-2025 09:50,No,10,Emotional,No,Silver
+1038,22,Bottom,Joggers,Plus Size,3,1769,1349,2.93,Awful stitching and fabric. Returned immediately.,Highly Negative,No,29-03-2025 09:50,No,10,Playful,No,Silver
+1092,45,Tops,Blouses,Regular,5,1543,1096,3.24,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,13-02-2025 09:50,No,20,Minimal,No,Silver
+1041,19,Outerwear,Muffler,Petite,1,1506,940,4.03,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,06-06-2025 09:50,Yes,0,Empowering,Yes,Gold
+1025,18,Loungewear,Lounge Bottoms,Regular,4,2498,1414,1.54,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,10-02-2025 09:50,No,20,Emotional,No,Bronze
+1098,23,Bottom,Joggers,Plus Size,3,1158,1319,3.79,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,13-05-2025 09:50,No,10,Playful,Yes,Gold
+1049,30,Bottom,Pants,Plus Size,4,1987,670,4.09,Looked used and poorly made. Not recommended at all.,Highly Negative,No,02-01-2025 09:50,No,20,Emotional,No,Bronze
+1024,23,Bottom,Pants,Plus Size,1,2176,528,3.93,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,13-04-2025 09:50,No,30,Emotional,No,Bronze
+1023,26,Bottom,Shorts,Petite,4,2972,1236,3.42,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,23-04-2025 09:50,No,50,Empowering,No,Bronze
+1012,25,Dresses,Wrap,Petite,4,1331,901,4.92,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,05-04-2025 09:50,No,0,Minimal,No,Bronze
+1059,42,Tops,Shirts,Regular,1,1318,1212,2.86,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,27-05-2025 09:50,No,20,Emotional,Yes,Silver
+1006,37,Loungewear,Lounge Tops,Regular,5,1123,861,3.78,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,16-05-2025 09:50,Yes,40,Playful,Yes,Bronze
+1056,44,Loungewear,Hoodies,Tall,4,853,1411,3.13,Colors were duller than photos. Not very flattering.,Negative,Yes,14-05-2025 09:50,No,0,Playful,No,Bronze
+1035,34,Bottom,Shorts,Tall,4,1842,1419,4.42,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,19-04-2025 09:50,Yes,40,Minimal,No,Gold
+1044,39,Tops,Shirts,Regular,5,1523,647,5.22,Would never buy again. Completely different from the images.,Highly Negative,No,21-02-2025 09:50,No,20,Playful,Yes,Gold
+1019,20,Dresses,Shift,Regular,4,1561,1247,2.56,Will consider again for future purchases.,Positive,No,08-01-2025 09:50,No,20,Minimal,No,Gold
+1064,21,Tops,Tanks,Regular,4,1212,1114,2.75,Not what I expected. Material felt a bit off.,Negative,Yes,22-03-2025 09:50,Yes,50,Playful,No,Gold
+1007,33,Outerwear,Coats,Regular,4,2635,1356,5.33,Disappointed with the fit. Runs smaller than usual.,Negative,No,16-02-2025 09:50,Yes,10,Empowering,No,Silver
+1015,25,Bottom,Skirts,Petite,2,2008,1413,4.08,I liked it overall. The color was slightly different but still pretty.,Positive,Yes,20-03-2025 09:50,Yes,30,Emotional,No,Bronze
+1013,22,Tops,Shirts,Regular,5,1448,1068,4.74,I liked it overall. The color was slightly different but still pretty.,Positive,No,16-04-2025 09:50,No,40,Empowering,No,Bronze
+1075,32,Tops,Shirts,Regular,4,2217,1035,2.71,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,20-02-2025 09:50,No,0,Emotional,No,Silver
+1086,45,Loungewear,Hoodies,Plus Size,5,2121,517,4.26,Disappointed with the fit. Runs smaller than usual.,Negative,No,12-01-2025 09:50,Yes,30,Emotional,No,Bronze
+1014,33,Tops,Shirts,Regular,3,1995,742,4.94,Disappointed with the fit. Runs smaller than usual.,Negative,No,26-04-2025 09:50,No,50,Emotional,No,Silver
+1091,30,Dresses,Shift,Regular,3,2544,710,1.89,Happy with the purchase. Arrived earlier than expected.,Positive,Yes,06-05-2025 09:50,No,10,Empowering,No,Bronze
+1097,29,Dresses,Gowns,Plus Size,4,2225,1152,3.17,Looked used and poorly made. Not recommended at all.,Highly Negative,Yes,09-05-2025 09:50,Yes,40,Emotional,No,Bronze
+1065,39,Dresses,Shift,Tall,5,1829,967,2.37,Nice fabric and colors. Great for everyday use.,Positive,No,28-04-2025 09:50,No,20,Empowering,No,Silver
+1031,31,Dresses,Maxi,Regular,5,2464,1055,4.4,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,16-02-2025 09:50,No,30,Minimal,No,Silver
+1086,30,Loungewear,Lounge Tops,Tall,5,2575,1425,4.87,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,21-04-2025 09:50,No,30,Playful,Yes,Silver
+1062,31,Tops,Shirts,Plus Size,2,1646,1430,4.92,Definitely buying again. Loved the quality and the packaging.,Highly Positive,No,21-12-2024 09:50,Yes,10,Playful,No,Silver
+1085,32,Dresses,Maxi,Regular,3,1123,685,4.64,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,23-01-2025 09:50,Yes,50,Emotional,No,Bronze
+1050,19,Outerwear,Coats,Petite,5,1810,995,2.3,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,26-03-2025 09:50,Yes,50,Empowering,Yes,Bronze
+1024,33,Tops,Blouses,Tall,5,1824,900,4.77,Didn't like the neckline. Quality seems average.,Negative,No,25-04-2025 09:50,No,30,Playful,No,Gold
+1057,18,Tops,Knits,Regular,2,968,864,5.24,Will consider again for future purchases.,Positive,Yes,17-04-2025 09:50,No,30,Empowering,No,Silver
+1062,39,Loungewear,Lounge Bottoms,Tall,2,2360,1215,3.01,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,06-02-2025 09:50,Yes,30,Empowering,No,Bronze
+1061,32,Bottom,Shorts,Petite,5,2778,1306,3.64,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,19-03-2025 09:50,Yes,20,Emotional,No,Gold
+1021,44,Dresses,Wrap,Petite,1,2121,600,3.57,Not what I expected. Material felt a bit off.,Negative,Yes,16-04-2025 09:50,Yes,30,Playful,No,Bronze
+1057,32,Tops,Tanks,Tall,5,1071,724,5.31,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,28-04-2025 09:50,Yes,20,Emotional,Yes,Bronze
+1057,26,Tops,Knits,Regular,5,2313,1245,4.39,Nice fabric and colors. Great for everyday use.,Positive,Yes,05-01-2025 09:50,No,20,Emotional,No,Bronze
+1085,22,Bottom,Pants,Plus Size,2,1224,593,5.02,Colors were duller than photos. Not very flattering.,Negative,No,27-02-2025 09:50,No,30,Playful,No,Silver
+1048,24,Tops,Shirts,Regular,2,1172,681,4.88,Will consider again for future purchases.,Positive,No,11-01-2025 09:50,No,20,Playful,No,Silver
+1051,24,Dresses,Wrap,Petite,5,1181,1195,4.7,Nice fabric and colors. Great for everyday use.,Positive,Yes,23-03-2025 09:50,Yes,0,Minimal,No,Bronze
+1041,31,Tops,Shirts,Tall,5,1940,1294,2.63,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,06-03-2025 09:50,No,10,Minimal,No,Gold
+1069,18,Loungewear,Hoodies,Tall,5,1706,831,2.21,Would never buy again. Completely different from the images.,Highly Negative,Yes,23-05-2025 09:50,No,20,Empowering,No,Bronze
+1014,29,Bottom,Skirts,Plus Size,2,2709,718,4.97,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,13-05-2025 09:50,No,30,Playful,No,Bronze
+1053,20,Dresses,Maxi,Regular,5,2531,1090,4.54,Will consider again for future purchases.,Positive,No,17-06-2025 09:50,Yes,20,Minimal,No,Bronze
+1059,31,Dresses,Maxi,Plus Size,5,2624,736,3.25,"Perfect fit, great quality. Totally worth the price.",Highly Positive,Yes,16-03-2025 09:50,No,30,Empowering,No,Bronze
+1096,33,Tops,Blouses,Petite,4,1026,622,3.9,Not what I expected. Material felt a bit off.,Negative,Yes,18-01-2025 09:50,No,20,Empowering,Yes,Bronze
+1007,42,Outerwear,Coats,Petite,1,1961,897,1.88,"Pretty good, fits well and looks nice for casual wear.",Positive,No,27-02-2025 09:50,Yes,30,Empowering,Yes,Silver
+1052,38,Bottom,Joggers,Plus Size,3,1374,871,2.65,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,05-02-2025 09:50,No,20,Minimal,No,Gold
+1059,32,Dresses,Maxi,Regular,1,1601,1086,4.11,Awful stitching and fabric. Returned immediately.,Highly Negative,No,24-03-2025 09:50,No,20,Playful,Yes,Silver
+1004,23,Loungewear,Leggings,Regular,4,2135,962,3.71,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,13-05-2025 09:50,No,30,Emotional,No,Bronze
+1067,41,Dresses,Maxi,Regular,3,2102,946,5.47,Fabric not breathable. Wouldn't recommend for summer.,Negative,No,14-06-2025 09:50,No,40,Empowering,No,Bronze
+1005,44,Tops,Blouses,Petite,5,2043,827,2.53,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,Yes,15-03-2025 09:50,No,20,Minimal,No,Bronze
+1095,35,Dresses,Wrap,Regular,4,2707,539,3.17,"Pretty good, fits well and looks nice for casual wear.",Positive,No,28-01-2025 09:50,No,0,Minimal,No,Bronze
+1093,27,Bottom,Joggers,Plus Size,5,1507,955,4.01,Colors were duller than photos. Not very flattering.,Negative,No,30-03-2025 09:50,No,10,Emotional,No,Silver
+1046,26,Bottom,Skirts,Plus Size,2,1203,650,3.03,Happy with the purchase. Arrived earlier than expected.,Positive,No,22-01-2025 09:50,Yes,0,Emotional,No,Bronze
+1098,19,Tops,Shirts,Plus Size,4,937,1098,1.96,"Perfect fit, great quality. Totally worth the price.",Highly Positive,No,31-03-2025 09:50,No,30,Minimal,Yes,Silver
+1054,19,Tops,Tanks,Tall,2,1566,916,5.35,Nice fabric and colors. Great for everyday use.,Positive,Yes,12-01-2025 09:50,Yes,20,Playful,No,Gold
+1039,40,Dresses,Wrap,Petite,4,2859,1264,4.61,I liked it overall. The color was slightly different but still pretty.,Positive,Yes,30-12-2024 09:50,No,20,Emotional,No,Bronze
+1051,36,Loungewear,Lounge Tops,Regular,4,2038,1251,2.41,Colors were duller than photos. Not very flattering.,Negative,Yes,27-02-2025 09:50,Yes,20,Minimal,No,Gold
+1015,27,Bottom,Joggers,Tall,2,2233,1058,4.06,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,Yes,30-03-2025 09:50,Yes,0,Emotional,No,Silver
+1012,41,Dresses,Maxi,Regular,3,1068,1339,3.29,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,23-01-2025 09:50,No,20,Playful,No,Silver
+1029,29,Bottom,Shorts,Plus Size,1,1582,1328,2.69,Will consider again for future purchases.,Positive,No,18-06-2025 09:50,No,10,Empowering,No,Silver
+1018,27,Dresses,Wrap,Regular,5,2261,1118,1.74,Happy with the purchase. Arrived earlier than expected.,Positive,No,07-05-2025 09:50,Yes,20,Emotional,No,Bronze
+1016,43,Tops,Tanks,Regular,4,2388,777,2.36,So comfy and looks amazing. Got lots of compliments!,Highly Positive,Yes,16-05-2025 09:50,Yes,10,Playful,Yes,Bronze
+1062,38,Dresses,Gowns,Regular,5,954,970,3.99,Would never buy again. Completely different from the images.,Highly Negative,No,26-03-2025 09:50,Yes,40,Minimal,No,Bronze
+1018,19,Dresses,Wrap,Tall,2,1523,1343,5.09,Disappointed with the fit. Runs smaller than usual.,Negative,No,21-12-2024 09:50,No,10,Emotional,Yes,Bronze
+1091,28,Loungewear,Leggings,Tall,5,1164,897,3.16,I liked it overall. The color was slightly different but still pretty.,Positive,No,27-02-2025 09:50,No,50,Emotional,Yes,Silver
+1057,27,Bottom,Shorts,Tall,2,1122,765,5.15,Absolutely love this! The material is top-notch and it fits like a dream.,Highly Positive,No,24-12-2024 09:50,No,20,Minimal,Yes,Bronze
+1054,19,Dresses,Gowns,Regular,5,1211,1493,2.45,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,05-01-2025 09:50,No,40,Empowering,No,Gold
+1089,26,Tops,Tanks,Tall,1,2175,1205,5.2,Colors were duller than photos. Not very flattering.,Negative,No,13-01-2025 09:50,No,30,Minimal,No,Silver
+1089,42,Tops,Blouses,Regular,1,870,1083,4.57,I liked it overall. The color was slightly different but still pretty.,Positive,No,10-03-2025 09:50,No,30,Emotional,No,Bronze
+1061,44,Bottom,Shorts,Regular,1,2909,1092,3.34,Colors were duller than photos. Not very flattering.,Negative,No,22-12-2024 09:50,Yes,30,Minimal,No,Bronze
+1022,25,Tops,Knits,Petite,1,1702,875,3.35,Not what I expected. Material felt a bit off.,Negative,Yes,27-04-2025 09:50,Yes,20,Playful,No,Gold
+1008,39,Bottom,Joggers,Regular,1,2396,941,1.5,Terrible experience. Poorly stitched and looked worn.,Highly Negative,No,29-05-2025 09:50,No,20,Minimal,Yes,Gold
+1011,45,Tops,Blouses,Regular,1,2333,879,4.14,Definitely buying again. Loved the quality and the packaging.,Highly Positive,Yes,14-03-2025 09:50,No,20,Emotional,No,Silver
+1000,19,Dresses,Maxi,Plus Size,2,945,751,5.48,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,21-05-2025 09:50,No,20,Minimal,No,Bronze
+1057,22,Bottom,Pants,Plus Size,4,2180,1226,2.18,Exceeded my expectations in every way. Super flattering and comfy.,Highly Positive,No,09-05-2025 09:50,No,0,Empowering,No,Bronze
+1000,44,Bottom,Joggers,Petite,5,1227,507,4.3,Would never buy again. Completely different from the images.,Highly Negative,No,16-06-2025 09:50,No,20,Minimal,No,Bronze
+1033,29,Dresses,Maxi,Petite,1,2543,1384,4.83,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,01-06-2025 09:50,No,30,Empowering,Yes,Bronze
+1095,26,Loungewear,Lounge Tops,Petite,2,2073,598,3.93,Awful stitching and fabric. Returned immediately.,Highly Negative,Yes,23-04-2025 09:50,No,20,Playful,No,Silver
+1047,21,Tops,Tanks,Plus Size,2,2882,1114,4.25,Didn't like the neckline. Quality seems average.,Negative,No,22-01-2025 09:50,No,30,Empowering,No,Silver
+1088,37,Tops,Tanks,Regular,2,2654,1480,2.16,Will consider again for future purchases.,Positive,Yes,30-05-2025 09:50,No,30,Minimal,No,Silver
+1000,41,Outerwear,Coats,Petite,4,1835,1122,5.06,Looked used and poorly made. Not recommended at all.,Highly Negative,No,17-06-2025 09:50,No,50,Emotional,Yes,Gold
+1015,40,Tops,Shirts,Tall,5,2513,659,4.61,Nice fabric and colors. Great for everyday use.,Positive,Yes,09-06-2025 09:50,Yes,10,Empowering,No,Silver
+1060,33,Bottom,Pants,Regular,4,1183,581,4.83,Not what I expected. Material felt a bit off.,Negative,No,31-03-2025 09:50,No,20,Playful,No,Bronze
+1063,20,Dresses,Maxi,Plus Size,3,2035,1147,4.06,Terrible experience. Poorly stitched and looked worn.,Highly Negative,Yes,01-01-2025 09:50,No,20,Empowering,Yes,Bronze
+1062,19,Bottom,Joggers,Regular,2,1116,705,4.66,Too tight and shrunk after first wash. Waste of money.,Highly Negative,No,25-02-2025 09:50,No,20,Empowering,No,Gold
+1068,44,Dresses,Maxi,Regular,3,1973,622,2.68,So comfy and looks amazing. Got lots of compliments!,Highly Positive,No,23-02-2025 09:50,No,40,Empowering,No,Bronze
+1021,20,Tops,Blouses,Plus Size,1,2164,1175,3.81,Nice fabric and colors. Great for everyday use.,Positive,No,30-05-2025 09:50,No,10,Playful,No,Gold
+1092,25,Outerwear,Muffler,Petite,1,1564,1032,1.73,Not what I expected. Material felt a bit off.,Negative,Yes,06-06-2025 09:50,No,30,Minimal,No,Gold
+1066,36,Tops,Tanks,Petite,4,2880,1022,2.1,Fabric not breathable. Wouldn't recommend for summer.,Negative,Yes,04-03-2025 09:50,Yes,20,Empowering,No,Bronze

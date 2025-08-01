@@ -1,0 +1,104 @@
+{% extends 'store/base.html' %}
+{% load static %}
+
+{% block content %}
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .dashboard-container {
+        display: flex;
+        height: 100vh;
+        background-color: #f5e9cf;
+    }
+
+    .sidebar {
+        width: 250px;
+        background-color: #5c4033;
+        padding: 30px 20px;
+        color: #f5e9cf;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .sidebar h2 {
+        font-size: 1.5em;
+        margin-bottom: 30px;
+        color: #fff5dc;
+        text-align: center;
+    }
+
+    .sidebar button {
+        background: none;
+        border: none;
+        color: #f5e9cf;
+        text-align: left;
+        font-size: 1em;
+        cursor: pointer;
+        padding: 10px;
+        border-left: 3px solid transparent;
+        transition: all 0.3s;
+    }
+
+    .sidebar button:hover,
+    .sidebar button.active {
+        background-color: #7a5237;
+        border-left: 3px solid #f5e9cf;
+    }
+
+    .iframe-container {
+        flex: 1;
+        padding: 20px;
+        overflow-y: auto;
+        background-color: #f5e9cf;
+    }
+
+    iframe {
+        width: 100%;
+        height: 90vh;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+</style>
+
+<div class="dashboard-container">
+    <div class="sidebar">
+        <h2>Admin Panel</h2>
+        <button onclick="loadDashboard(0)" class="active">Business Overview</button>
+        <button onclick="loadDashboard(1)">Sales Insight</button>
+        <button onclick="loadDashboard(2)">Customer Sentiment</button>
+        <button onclick="loadDashboard(3)">Inventory Overview</button>
+        <button onclick="loadDashboard(4)">Market Readiness</button>
+    </div>
+
+    <div class="iframe-container">
+        <iframe id="dashboard-frame"
+            src="https://public.tableau.com/views/BusinessOverview_17515781200380/BusinessOverview?:showVizHome=no&:embed=true"
+            allowfullscreen></iframe>
+    </div>
+</div>
+
+<script>
+    const dashboards = [
+        "https://public.tableau.com/views/BusinessOverview_17515781200380/BusinessOverview?:showVizHome=no&:embed=true",
+        "https://public.tableau.com/views/SalesInsights_17515818703100/SalesInsights?:showVizHome=no&:embed=true",
+        "https://public.tableau.com/views/CustomerSentiment_17515793404970/CustomerSentiment?:showVizHome=no&:embed=true",
+        "https://public.tableau.com/views/InventoryOverview_17516266343490/InventoryOverview?:showVizHome=no&:embed=true",
+        "https://public.tableau.com/views/MarketReadiness/MarketReadiness?:showVizHome=no&:embed=true"
+    ];
+
+    function loadDashboard(index) {
+        const iframe = document.getElementById("dashboard-frame");
+        iframe.src = dashboards[index];
+
+        const buttons = document.querySelectorAll(".sidebar button");
+        buttons.forEach((btn, i) => {
+            btn.classList.toggle("active", i === index);
+        });
+    }
+</script>
+{% endblock %}

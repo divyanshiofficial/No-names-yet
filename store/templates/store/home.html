@@ -1,0 +1,117 @@
+{% extends 'store/base.html' %}
+{% load static %}
+
+{% block content %}
+
+<!-- Section 2: Tagline -->
+<section style="
+    background-image: url('{% static 'store/images/tagline_background.png' %}'); 
+    background-size: cover; 
+    padding: 80px 20px; 
+    text-align: center; 
+    color: #3e2d1c;
+    border-radius: 12px;
+    min-height: 600px;">
+    
+    <h2 style="font-size: 3em; margin-top: 240px;">Wear Stories. Not Brands.</h2>
+    <p style="font-size: 1.5em; line-height: 1.6; max-width: 700px; margin: 0 auto; margin-top: 50px;">
+        Free from labels and limitations. Each piece carries a history, <br/>
+        yet is reborn with a fresh identity—one that the wearer defines.
+    </p>
+</section>
+
+<!-- Section 3: Style That Speaks -->
+<section style="
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efdfbb;
+    padding: 60px 40px;
+    font-family: 'Georgia', serif;
+    color: #3e2d1c;
+    border-radius: 12px;
+    min-height: 600px;
+">
+    <!-- Image on the left -->
+    <div style="flex: 1; text-align: center;">
+        <img src="{% static 'store/images/environment_section.png' %}" alt="Dress" style="max-width: 80%; height: auto;">
+    </div>
+
+    <!-- Text on the right -->
+    <div style="flex: 1; padding-left: 40px;">
+        <h1 style="font-size: 3em; font-weight: bold; margin-bottom: 20px;">
+            Transformation of <br>
+            Clothing With Past <br>
+            Lives Into New <br>
+            Creations.
+        </h1>
+        <p style="font-size: 1.5em; line-height: 1.6;">
+            Free from labels and limitations. Each<br>piece carries a history, yet is reborn with <br>a fresh identity—one that the wearer <br>defines.
+        </p>
+        <a href="{% url 'customer_dashboard' %}" style="
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 24px;
+            background-color: #5c4033;
+            color: white;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+        ">
+            Go to Dashboard
+        </a>
+    </div>
+</section>
+
+
+{% comment %} <section style="background-image: url('{% static 'store/images/environment_section.png' %}'); background-size: cover; padding: 60px 20px; text-align: center;">
+    <h2>TRANSFORMATION OF <br/>CLOTHING WITH PAST <br/>LIVES INTO NEW<br/>CREATIONS</h2>
+    <p>Free from labels and limitations. Each <br/>piece carries a history, yet is reborn with <br/>a fresh identity - one that the wearer <br/>defines.</p>
+    <a href="{% url 'customer_dashboard' %}" style="display: inline-block; padding: 10px 20px; background-color: #5c4033; color: white; border-radius: 8px; margin-top: 10px;">
+        Go to Dashboard
+    </a>
+</section> {% endcomment %}
+
+<!-- Section 4: Catalog Circles -->
+<section style="text-align: center; padding: 60px 20px; border-radius: 6px; background-color: #efdfbb; min-height: 600px;">
+    <h2 style="font-size: 3em; font-weight: bold; margin-bottom: 20px;"><a href="{% url 'catalog' %}" style="text-decoration: none; color: #5c4033;">Explore Collections<a/></h2>
+    <p style="font-size: 1.5em; line-height: 1.6;">
+            Your Next Favorite Outfit is Waiting.
+        </p>
+    <div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap; margin-top: 80px; margin-bottom:50px">
+        
+        {% for item in categories %}
+<a href="{% url 'catalog' %}?category={{ item|lower }}" style="text-decoration: none; color: inherit;">
+    <div class="catalog-circle" style="text-align: center;">
+        <img src="{% static 'store/images/'|add:item|add:'.png' %}" 
+             style="border-radius: 50%; border: 3px solid #5c4033; width: 180px; height: 180px; object-fit: cover;" 
+             alt="{{ item }}">
+        <p style="margin-top: 10px;">{{ item|title }}</p>
+    </div>
+</a>
+{% endfor %}
+
+    </div>
+</section>
+
+<!-- Section 5: How We Work Timeline -->
+<section style="text-align: center; padding: 60px 20px; min-height: 600px; border-radius: 6px; background-color: #efdfbb;">
+    <h2 style="text-align: center; font-size: 3em; font-weight: bold; margin-bottom: 20px; ">How We Work</h2>
+    <p style="font-size: 1.5em; line-height: 1.6;">
+            From Pre-Loved to Re-Loved, the Journey Begins.
+        </p>
+        <p style="font-size: 1.37em; line-height: 1.8; margin-top: 50px;">
+        At No Names Yet, every garment begins its second life with a story. We collect pre-loved clothing that holds character, charm, and potential. Each piece is then thoughtfully transformed by our designers — not to hide its past, but to embrace it. With creativity and care, we reshape these garments into something new, timeless, and full of meaning. Once reborn, these creations wait to connect with someone who sees their beauty. And that’s where you come in — you choose it, name it, and wear it your way. Because at No Names Yet, fashion isn’t defined by labels — it’s defined by you.
+    </p>    
+    <div style="text-align: center; margin-top: 50px">
+        <img src="{% static 'store/images/howwework3.png' %}" alt="Dress" style="max-width: 80%; height: auto;">
+    </div>
+    {% comment %} <ol style="max-width: 800px; margin: 0 auto; padding-left: 20px;">
+        <li>We collect pre-loved clothes.</li>
+        <li>We redesign them with creativity and care.</li>
+        <li>We share the story behind every piece.</li>
+        <li>You choose and wear with pride.</li>
+    </ol> {% endcomment %}
+</section>
+
+{% endblock %}

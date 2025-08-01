@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #fdf6ec;
+    color: #3e2d1c;
+}
+
+header, footer {
+    background-color: #e6d3b3;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+header a {
+    margin-left: 20px;
+    color: #3e2d1c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 40px 20px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+.tagline-section {
+    background: url("../images/hero.png") no-repeat center center/cover;
+    padding: 100px 20px;
+    text-align: center;
+    color: #3e2d1c;
+}
+
+.style-section {
+    background: url("../images/environment.png") no-repeat center center/cover;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.catalog-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.catalog-circle {
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.catalog-circle:hover {
+    transform: scale(1.05);
+}
+
+.catalog-circle img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.timeline {
+    max-width: 700px;
+    margin: 0 auto;
+    font-size: 1.1em;
+    line-height: 2;
+    list-style: decimal;
+    padding-left: 30px;
+}

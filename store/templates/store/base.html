@@ -1,0 +1,54 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>No Names Yet</title>
+    <link rel="stylesheet" href="{% static 'store/css/style.css' %}">
+    <style>
+        /* Add hover effect for catalog circles */
+        .catalog-circle:hover {
+            transform: scale(1.05);
+            transition: transform 0.3s ease;
+        }
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+     <header style="background-color: #efdfbb; padding: 10px 20px; display: flex; justify-content: space-between; align-items: center;">
+        <div style="font-size: 24px; font-weight: bold; color: #5c4033;">
+            <a href="{% url 'home' %}" style="color: #5c4033; text-decoration: none;">NO NAMES YET</a>
+        </div>
+
+        <nav style="display: flex; gap: 20px;">
+            <a href="{% url 'home' %}">Home</a> |
+            <a href="{% url 'catalog' %}" style="color: #5c4033;">Catalog</a> |
+            <a href="{% url 'admin_login' %}" style="color: #5c4033;">Admin Login</a> |
+            <a href="{% url 'cart' %}" style="color: #5c4033; font-size: 18px;">🛒 Cart</a>
+        </nav>
+    </header>
+    {% comment %} <header style="display: flex; justify-content: space-between; align-items: center;">
+        <div style="font-size: 1.8em; font-weight: bold;"><a href="{% url 'home' %}">No Names Yet</a></div>
+        <div>
+            <a href="{% url 'home' %}">Home</a> |
+            <a href="{% url 'admin_login' %}">Admin Login</a> |
+            <a href="{% url 'catalog' %}">Catalog</a>
+        </div>
+    </header> {% endcomment %}
+
+    <!-- Content Block -->
+    <main style = "background-image: url('{% static 'store/images/bg.png' %}');" >
+        {% block content %}
+        {% endblock %}
+    </main>
+
+    <!-- Footer -->
+   <footer style="display: flex; justify-content: center; align-items: center; height: 80px; background-color: #e6d3b3;">
+    <p style="font-size: 1.2em; margin: 0;">Contact us: nonames@fashion.com | © 2025 No Names Yet</p>
+</footer>
+</body>
+</html>

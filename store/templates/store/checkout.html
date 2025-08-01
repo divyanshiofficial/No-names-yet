@@ -1,0 +1,29 @@
+{% extends 'store/base.html' %}
+{% block content %}
+<section style="padding: 50px; background-color: #efdfbb; min-height: 80vh;">
+  <h2 style="text-align: center; color: #5c4033;">Checkout</h2>
+
+  <form method="post" action="{% url 'payment_success' %}" style="max-width: 500px; margin: 30px auto;">
+    {% csrf_token %}
+
+    <!-- Payment Method -->
+    <label for="payment_method" style="display: block; margin-bottom: 10px; font-weight: bold;">Select Payment Method:</label>
+    <select name="payment_method" id="payment_method" required style="width: 100%; padding: 10px; margin-bottom: 20px;">
+      <option value="COD">Cash on Delivery</option>
+      <option value="UPI">UPI</option>
+      <option value="NetBanking">Net Banking</option>
+      <option value="PayPal">PayPal</option>
+      <option value="Card">Credit/Debit Card</option>
+    </select>
+
+    <!-- Address Field -->
+    <label for="address" style="display: block; margin-bottom: 10px; font-weight: bold;">Delivery Address:</label>
+    <textarea name="address" id="address" rows="4" required style="width: 100%; padding: 10px; margin-bottom: 20px;"></textarea>
+
+    <button type="submit"
+            style="background-color: #5c4033; color: #f6ead3; padding: 12px 20px; border: none; border-radius: 6px; cursor: pointer;">
+      Pay Now
+    </button>
+  </form>
+</section>
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends 'store/base.html' %}
+{% block content %}
+  <h2>Real-Time Dashboard</h2>
+  {% if data %}
+    <table border="1" cellpadding="5">
+      <tr>
+        {% for col in data.0.keys %}
+          <th>{{ col }}</th>
+        {% endfor %}
+      </tr>
+      {% for row in data %}
+        <tr>
+          {% for value in row.values %}
+            <td>{{ value }}</td>
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </table>
+  {% else %}
+    <p>No CSV data uploaded yet.</p>
+  {% endif %}
+{% endblock %}
